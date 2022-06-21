@@ -1,4 +1,17 @@
 Natural Language Processing Practice
+
+1. nurshat1_nlp_topic/keyword_searching.ipynb
+https://colab.research.google.com/drive/1QeUOf1TEyVl5vjJbt7P7g2D_k142JpCM?usp=sharing
+DESCRIPTION: Finding particular topic based news from vast pool of newspapers and presenting them in a proper way using newscatcherapi.
+
+2. nurshat2_nlp_article_searching.ipynb
+https://colab.research.google.com/drive/1GwwwC5ZDTVPKegBtrOBhfN9eA1q76HvG?usp=sharing
+DESCRIPTION: Using newscatcher to collect specific topic related articles from a news website.
+
+3. nurshat3_nlp_article_analysis.ipynb
+https://colab.research.google.com/drive/10Ph5zC3Vl6z3VB9NO1aRTZ0QsjcI9gai?usp=sharing
+DESCRIPTION: Using newspaper3k and nltk to find title, keywords and summary of a given article link
+
 Ref: 
 nurshat1: https://pypi.org/project/newscatcherapi/
 nurshat2: https://github.com/kotartemiy/newscatcher
