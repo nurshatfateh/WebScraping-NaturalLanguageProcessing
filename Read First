@@ -14,7 +14,7 @@ DESCRIPTION: Using newspaper3k and nltk to find title, keywords and summary of a
 
 4. nurshat_4_feature_analysis.ipynb
 https://colab.research.google.com/drive/1WgTFOq2IxyMt7qSPNiBH0XbjaHqY_kAs?usp=sharing
-DESCRIPTION: Named Entity Recognition using NLTK.
+DESCRIPTION: Web Scraping and Named Entity Recognition using NLTK, NewsCatcherApiClient, newspaper3k
 
 Ref: 
 nurshat1: https://pypi.org/project/newscatcherapi/
