@@ -10,11 +10,11 @@ DESCRIPTION: Using newscatcher to collect specific topic related articles from a
 
 3. nurshat3_nlp_article_analysis.ipynb
 https://colab.research.google.com/drive/10Ph5zC3Vl6z3VB9NO1aRTZ0QsjcI9gai?usp=sharing
-DESCRIPTION: Using newspaper3k and nltk to find title, keywords and summary of a given article link
+DESCRIPTION: Using newspaper3k and nltk to find title, keywords and summary of a given article link.
 
 4. nurshat_4_feature_analysis.ipynb
 https://colab.research.google.com/drive/1WgTFOq2IxyMt7qSPNiBH0XbjaHqY_kAs?usp=sharing
-DESCRIPTION: Web Scraping and Named Entity Recognition using NLTK, NewsCatcherApiClient, newspaper3k
+DESCRIPTION: Web Scraping and Named Entity Recognition using NLTK, Spacy, NewsCatcherApiClient, newspaper3k.
 
 Ref: 
 nurshat1: https://pypi.org/project/newscatcherapi/
