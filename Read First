@@ -12,7 +12,12 @@ DESCRIPTION: Using newscatcher to collect specific topic related articles from a
 https://colab.research.google.com/drive/10Ph5zC3Vl6z3VB9NO1aRTZ0QsjcI9gai?usp=sharing
 DESCRIPTION: Using newspaper3k and nltk to find title, keywords and summary of a given article link
 
+4. nurshat_4_feature_analysis.ipynb
+https://colab.research.google.com/drive/1WgTFOq2IxyMt7qSPNiBH0XbjaHqY_kAs?usp=sharing
+DESCRIPTION: Named Entity Recognition using NLTK.
+
 Ref: 
 nurshat1: https://pypi.org/project/newscatcherapi/
 nurshat2: https://github.com/kotartemiy/newscatcher
 nurshat3: https://opendatascience.com/using-the-newspaper-library-to-scrape-news-articles/
+nurshat4: https://nanonets.com/blog/named-entity-recognition-with-nltk-and-spacy/ 
