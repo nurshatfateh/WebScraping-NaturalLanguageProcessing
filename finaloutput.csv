@@ -1,0 +1,1244 @@
+﻿,ID,url number,ACCIDENT LOCATION,ACCIDENT Date,Victim NUMBER,Vehicle 1,Vehicle 2,Vehicle 3
+2,2,4,chandpur,8/31/2020 22:47,2,bike,,
+3,3,7,jashore,9/1/2020 22:02,1,truck,,
+6,8,20,dhamrai,9/5/2020 22:42,3,bus,,
+8,11,30,madhabpur,9/7/2020 22:13,7,truck,car,
+9,12,30,habiganj,9/7/2020 22:13,7,truck,car,
+10,13,31,bagherpara,9/8/2020 22:00,6,truck,car,motorcycle
+14,18,37,barisal,9/9/2020 22:03,9,bus,,
+18,22,50,dhaka,9/11/2020 22:02,3,auto,,
+21,26,61,brahmanbaria,9/15/2020 22:01,1,motorcycle,auto,
+22,27,63,panchagarh,9/16/2020 22:01,2,bus,car,motorcycle
+23,29,67,khulna,9/17/2020 22:25,2,truck,,
+24,30,68,magura,9/18/2020 22:02,2,truck,bus,bike
+25,31,69,magura,9/18/2020 22:02,4,bus,,
+26,32,73,khulna,9/19/2020 22:03,3,bus,bike,motorcycle
+27,33,74,dhaka,9/20/2020 22:15,1,auto,,
+28,34,76,jatrabari,9/21/2020 22:01,12,truck,bike,motorcycle
+29,35,76,dhaka,9/21/2020 22:01,12,truck,bike,motorcycle
+32,39,94,bapta,9/26/2020 22:01,1,truck,motorcycle,
+33,40,94,bhola,9/26/2020 22:01,1,truck,motorcycle,
+34,43,97,chapainawabganj,9/28/2020 22:01,3,car,,
+36,45,99,bhola,9/29/2020 22:01,2,bus,motorcycle,rickshaw
+37,46,99,bhola,9/29/2020 22:01,2,bus,motorcycle,rickshaw
+44,53,111,burichang,10/3/2020 22:01,2,bus,,
+46,55,112,burichang,10/3/2020 22:02,2,bus,,
+56,66,125,khulna,10/8/2020 22:02,4,bus,rickshaw,auto
+57,67,125,dumuria,10/8/2020 22:02,4,bus,rickshaw,auto
+59,69,128,brahmanbaria,10/8/2020 22:02,3,bus,bike,
+60,70,131,islampur,10/8/2020 22:03,3,bus,bike,
+64,74,133,rajagaon,10/9/2020 22:01,2,motorcycle,,
+65,75,134,panchagarh,10/9/2020 22:01,2,motorcycle,auto,
+67,77,135,rajagaon,10/9/2020 22:02,2,motorcycle,,
+68,78,136,islampur,10/9/2020 22:02,3,bus,bike,
+69,79,136,brahmanbaria,10/9/2020 22:02,3,bus,bike,
+70,80,139,gazipur,10/10/2020 22:01,2,truck,rickshaw,auto
+71,81,139,satkhamair,10/10/2020 22:01,2,truck,rickshaw,auto
+76,86,150,mithapukur,10/12/2020 22:02,1,truck,motorcycle,
+77,87,150,rangpur,10/12/2020 22:02,1,truck,motorcycle,
+78,88,152,naogaon,10/15/2020 23:29,2,bus,bike,auto
+85,95,158,naogaon,10/16/2020 22:01,2,bus,bike,auto
+86,96,160,gopalganj,10/17/2020 22:02,4,truck,bike,rickshaw
+87,97,160,rangamati,10/17/2020 22:02,4,truck,bike,rickshaw
+92,105,180,manikganj,10/22/2020 22:01,2,bus,,
+93,106,188,gopinathpur,10/23/2020 22:02,3,bus,car,
+95,108,195,madanpur,10/25/2020 22:01,1,auto,,
+97,110,201,chakaria,10/26/2020 22:01,1,truck,rickshaw,auto
+98,111,206,mohammadpur,10/27/2020 22:01,1,bus,car,bike
+101,114,207,khulna,10/27/2020 22:01,1,train,,
+102,115,208,mohammadpur,10/28/2020 22:01,1,bus,car,bike
+107,120,214,birahimpur,10/30/2020 22:02,2,motorcycle,rickshaw,auto
+108,121,214,birahimpur,10/30/2020 22:02,2,motorcycle,rickshaw,auto
+110,123,218,faridganj,11/2/2020 21:01,3,motorcycle,,
+111,124,218,dhaka,11/2/2020 21:01,3,motorcycle,,
+113,126,219,naogaon,11/2/2020 21:01,10,motorcycle,auto,
+114,127,220,kushtia,11/3/2020 21:01,5,truck,,
+115,128,220,pabna,11/3/2020 21:01,5,truck,,
+116,130,229,jhenaidah,11/6/2020 21:01,10,truck,bus,car
+117,131,229,munshiganj,11/6/2020 21:01,10,truck,bus,car
+121,135,237,gazipur,11/7/2020 21:01,2,bus,train,
+123,137,243,patuakhali,11/8/2020 21:01,1,bike,,
+124,138,243,dhaka,11/8/2020 21:01,1,bike,,
+128,143,253,mymensingh,11/13/2020 21:02,2,auto,,
+130,145,254,mymensingh,11/13/2020 21:02,2,auto,,
+133,148,258,bagharpara,11/14/2020 21:01,5,bus,,
+134,149,258,jashore,11/14/2020 21:01,5,bus,,
+135,150,265,lakshmipur,11/17/2020 21:04,2,bus,motorcycle,rickshaw
+136,151,265,chandraganj,11/17/2020 21:04,2,bus,motorcycle,rickshaw
+137,152,269,chapainawabganj,11/19/2020 21:01,9,bike,rickshaw,train
+138,154,275,sherpur,11/22/2020 21:02,3,bus,,
+142,159,286,kaliganj,11/27/2020 21:00,5,bus,,
+143,160,287,kaliganj,11/28/2020 21:00,8,bus,auto,
+144,161,289,pirojpur,11/28/2020 21:00,4,bus,,
+145,162,289,pirojpur,11/28/2020 21:00,4,bus,,
+147,166,293,chandpur,12/1/2020 23:22,3,rickshaw,auto,
+148,167,293,faridganj,12/1/2020 23:22,3,rickshaw,auto,
+149,168,299,mirzapur,12/4/2020 21:02,6,truck,bus,
+150,169,300,daulatpur,12/4/2020 21:02,3,bus,rickshaw,auto
+151,170,300,manikganj,12/4/2020 21:02,3,bus,rickshaw,auto
+152,171,306,manikganj,12/5/2020 21:00,13,truck,bus,rickshaw
+153,172,306,manikganj,12/5/2020 21:00,13,truck,bus,rickshaw
+154,173,307,manikganj,12/5/2020 21:00,13,truck,bus,rickshaw
+155,174,307,manikganj,12/5/2020 21:00,13,truck,bus,rickshaw
+156,175,311,manikganj,12/5/2020 21:02,7,truck,bus,rickshaw
+157,176,311,manikganj,12/5/2020 21:02,7,truck,bus,rickshaw
+158,177,312,daulatpur,12/5/2020 21:02,7,bus,rickshaw,auto
+160,179,314,gopalpur,12/6/2020 21:01,3,bike,motorcycle,
+162,181,317,habiganj,12/7/2020 21:03,8,bus,rickshaw,auto
+165,184,325,mirzapur,12/8/2020 21:20,2,truck,,
+175,194,357,bhairab,12/18/2020 21:02,3,truck,rickshaw,auto
+176,195,357,kishoreganj,12/18/2020 21:02,3,truck,rickshaw,auto
+177,196,359,bhairab,12/18/2020 21:02,3,truck,rickshaw,auto
+178,197,359,kishoreganj,12/18/2020 21:02,3,truck,rickshaw,auto
+179,198,360,joypurhat,12/19/2020 21:01,12,bus,car,train
+180,199,360,bheramara,12/19/2020 21:01,12,bus,car,train
+181,200,362,joypurhat,12/19/2020 21:01,12,bus,train,
+183,202,364,joypurhat,12/20/2020 21:01,12,bus,train,
+185,204,370,dinajpur,12/22/2020 21:01,12,truck,bus,train
+186,205,370,joypurhat,12/22/2020 21:01,12,truck,bus,train
+187,206,373,katiadi,12/22/2020 21:01,1,truck,bus,rickshaw
+188,207,373,kishoreganj,12/22/2020 21:01,1,truck,bus,rickshaw
+189,208,374,katiadi,12/22/2020 21:01,1,truck,bus,rickshaw
+190,209,374,kishoreganj,12/22/2020 21:01,1,truck,bus,rickshaw
+194,213,379,ramganj,12/23/2020 21:01,2,rickshaw,auto,
+195,214,381,gazaria,12/24/2020 21:01,1,bus,,
+196,215,381,munshiganj,12/24/2020 21:01,1,bus,,
+197,216,382,gazaria,12/24/2020 21:01,1,bus,car,
+198,217,382,munshiganj,12/24/2020 21:01,1,bus,car,
+204,223,403,naogaon,1/1/2021 21:01,1,truck,bus,car
+205,224,403,kahaloo,1/1/2021 21:01,1,truck,bus,car
+206,225,404,narsingdi,1/1/2021 21:01,4,bus,car,
+207,226,405,narsingdi,1/1/2021 21:01,4,bus,car,
+208,227,407,dhaka,1/2/2021 21:01,2,bike,motorcycle,
+209,228,407,kashimpur,1/2/2021 21:01,2,bike,motorcycle,
+211,230,410,tarakanda,1/3/2021 21:01,7,bus,rickshaw,auto
+213,233,417,dhaka,1/6/2021 21:03,1,auto,,
+214,234,419,khilgaon,1/6/2021 21:04,1,train,auto,
+215,235,422,ullapara,1/8/2021 21:01,2,rickshaw,auto,
+219,240,425,rajshahi,1/9/2021 21:01,1,train,,
+220,241,427,jashore,1/9/2021 21:01,2,truck,motorcycle,auto
+221,242,427,khulna,1/9/2021 21:01,2,truck,motorcycle,auto
+223,244,428,jashore,1/9/2021 21:01,1,truck,,
+227,248,431,satkhira,1/10/2021 21:01,2,bus,auto,
+228,251,435,dhaka,1/12/2021 0:05,1,motorcycle,,
+231,254,441,rangamati,1/12/2021 21:01,3,truck,car,auto
+236,259,444,jhenaidah,1/14/2021 21:02,6,truck,,
+237,260,444,jhenaidah,1/14/2021 21:02,6,truck,,
+238,261,446,jhenaidah,1/14/2021 21:02,7,truck,,
+239,262,452,khulna,1/16/2021 0:08,15,truck,motorcycle,auto
+240,263,452,khulna,1/16/2021 0:08,15,truck,motorcycle,auto
+242,265,453,hemayetpur,1/16/2021 0:08,1,truck,car,bike
+244,267,455,patuakhali,1/16/2021 21:50,1,bike,motorcycle,
+245,268,463,gulshan,1/19/2021 21:00,1,bus,,
+247,270,470,pabna,1/21/2021 0:37,6,train,,
+249,272,471,dhaka,1/21/2021 0:37,1,bus,motorcycle,auto
+257,283,487,pabna,1/23/2021 21:02,4,truck,rickshaw,auto
+258,284,487,pabna,1/23/2021 21:02,4,truck,rickshaw,auto
+261,290,497,bhanga,1/25/2021 21:01,2,bus,bike,motorcycle
+262,291,499,dinajpur,1/26/2021 21:01,2,motorcycle,,
+265,296,511,mirzapur,1/31/2021 21:02,2,truck,rickshaw,auto
+266,297,511,dhaka,1/31/2021 21:02,2,truck,rickshaw,auto
+267,298,512,mirzapur,1/31/2021 21:02,4,truck,rickshaw,auto
+268,300,515,gazipur,1/31/2021 21:03,2,truck,rickshaw,
+269,301,515,chandra,1/31/2021 21:03,2,truck,rickshaw,
+270,302,517,lakshmipur,2/1/2021 21:03,2,truck,rickshaw,auto
+271,303,517,charpata,2/1/2021 21:03,2,truck,rickshaw,auto
+272,304,522,jashore,2/2/2021 21:02,2,bike,motorcycle,
+273,305,522,bagharpara,2/2/2021 21:02,2,bike,motorcycle,
+276,308,527,jashore,2/3/2021 21:02,2,bike,,
+277,309,529,narayanganj,2/4/2021 21:03,1,car,train,
+278,310,529,narayanganj,2/4/2021 21:03,1,car,train,
+281,313,541,santhia,2/6/2021 21:02,1,truck,auto,
+282,314,541,santhia,2/6/2021 21:02,1,truck,auto,
+284,317,552,dhaka,2/9/2021 21:01,2,bus,rickshaw,auto
+286,319,558,jhenaidah,2/11/2021 21:00,10,truck,bus,
+288,321,562,teknaf,2/11/2021 21:00,4,bus,rickshaw,auto
+289,322,562,teknaf,2/11/2021 21:00,4,bus,rickshaw,auto
+290,325,565,jhenaidah,2/11/2021 21:03,6,truck,bus,bike
+292,327,569,harirampur,2/12/2021 21:01,2,motorcycle,auto,
+293,328,569,manikganj,2/12/2021 21:01,2,motorcycle,auto,
+299,341,598,brahmanbaria,2/19/2021 21:01,3,truck,motorcycle,
+302,344,612,sirajganj,2/23/2021 21:04,7,truck,bus,auto
+303,345,612,konabari,2/23/2021 21:04,7,truck,bus,auto
+304,346,613,chapainawabganj,2/23/2021 21:04,2,truck,bike,motorcycle
+305,347,615,barisal,2/23/2021 21:04,15,truck,bus,train
+306,348,615,konabari,2/23/2021 21:04,15,truck,bus,train
+310,352,626,khulna,2/27/2021 21:01,4,truck,bike,auto
+311,353,626,satkhira,2/27/2021 21:01,4,truck,bike,auto
+312,354,627,khansama,2/27/2021 21:01,7,truck,bus,bike
+314,358,636,ashulia,3/1/2021 21:03,2,truck,rickshaw,auto
+317,361,643,manirampur,3/4/2021 22:49,1,bike,motorcycle,
+318,362,643,jashore,3/4/2021 22:49,1,bike,motorcycle,
+319,363,646,narsingdi,3/6/2021 21:01,6,truck,motorcycle,rickshaw
+320,364,646,dhaka,3/6/2021 21:01,6,truck,motorcycle,rickshaw
+323,369,652,kushtia,3/6/2021 21:01,1,train,,
+324,370,652,kushtia,3/6/2021 21:01,1,train,,
+327,373,657,barisal,3/8/2021 21:01,1,motorcycle,auto,
+328,374,658,hakimpur,3/9/2021 21:01,1,bike,,
+329,375,665,comilla,3/12/2021 22:52,2,bus,,
+331,377,667,khulna,3/12/2021 22:52,2,bus,bike,
+332,378,668,sreenagar,3/13/2021 22:52,1,bus,,
+339,385,680,lalpur,3/16/2021 23:52,1,train,,
+340,386,680,tanore,3/16/2021 23:52,1,train,,
+344,390,691,bhanga,3/21/2021 23:52,8,truck,bus,bike
+345,391,691,faridpur,3/21/2021 23:52,8,truck,bus,bike
+346,392,692,chattogram,3/23/2021 23:52,2,truck,rickshaw,auto
+347,393,694,chattogram,3/23/2021 23:52,2,truck,rickshaw,auto
+350,396,703,chattogram,3/31/2021 23:52,4,truck,rickshaw,auto
+351,397,703,chattogram,3/31/2021 23:52,4,truck,rickshaw,auto
+355,401,712,sujanagar,4/3/2021 22:00,1,truck,bike,motorcycle
+358,404,715,dhaka,4/4/2021 22:02,1,car,auto,
+362,408,717,madanpur,4/4/2021 22:02,1,truck,car,
+363,409,717,dhaka,4/4/2021 22:02,1,truck,car,
+364,410,720,munshiganj,4/5/2021 22:10,1,car,,
+365,411,722,munshiganj,4/5/2021 22:10,1,car,,
+366,412,723,brahmanbaria,4/5/2021 22:10,1,bus,,
+367,413,725,munshiganj,4/6/2021 22:04,1,car,,
+368,414,726,munshiganj,4/6/2021 22:04,1,car,,
+372,418,742,syedpur,4/9/2021 22:02,1,car,,
+373,419,747,comilla,4/13/2021 22:01,3,truck,rickshaw,auto
+375,421,749,sitakunda,4/13/2021 22:01,1,rickshaw,auto,
+384,432,771,tarakanda,4/28/2021 22:44,3,truck,rickshaw,auto
+385,433,771,mymensingh,4/28/2021 22:44,3,truck,rickshaw,auto
+386,436,774,narayanganj,5/1/2021 22:01,11,truck,motorcycle,
+387,437,774,sonargaon,5/1/2021 22:01,11,truck,motorcycle,
+388,438,777,brahmanbaria,5/2/2021 22:01,5,truck,bus,car
+390,440,779,bhola,5/2/2021 22:01,1,truck,motorcycle,
+391,443,787,madaripur,5/4/2021 23:09,1,bus,car,train
+400,452,799,lalbag,5/7/2021 23:33,1,truck,motorcycle,rickshaw
+402,454,805,dhaka,5/12/2021 22:02,12,truck,bus,car
+403,455,805,gazipur,5/12/2021 22:02,12,truck,bus,car
+407,462,820,gulshan,5/17/2021 22:05,1,car,auto,
+410,465,822,fultola,5/17/2021 22:05,1,truck,,
+413,468,826,mirzapur,5/19/2021 22:06,10,truck,bus,car
+417,472,828,munshiganj,5/20/2021 22:01,2,motorcycle,,
+421,476,833,surma,5/21/2021 23:43,1,truck,bike,motorcycle
+428,483,840,rajshahi,5/24/2021 22:04,13,bus,rickshaw,auto
+430,485,844,sirajganj,5/27/2021 22:03,1,auto,,
+431,486,845,dhaka,5/27/2021 22:03,4,truck,bus,bike
+432,487,845,khalpar,5/27/2021 22:03,4,truck,bus,bike
+433,488,847,sirajganj,5/27/2021 22:03,2,truck,bus,bike
+434,489,847,dhaka,5/27/2021 22:03,2,truck,bus,bike
+435,490,850,habiganj,5/29/2021 22:01,2,bike,motorcycle,rickshaw
+436,491,850,habiganj,5/29/2021 22:01,2,bike,motorcycle,rickshaw
+440,497,866,naogaon,6/5/2021 22:02,2,truck,bike,motorcycle
+446,506,886,gazipur,6/16/2021 22:02,3,truck,bus,motorcycle
+447,507,886,kapasia,6/16/2021 22:02,3,truck,bus,motorcycle
+449,509,887,nabinagar,6/16/2021 22:02,6,truck,bus,motorcycle
+452,512,890,dhaka,6/17/2021 22:05,1,car,,
+453,513,890,dhaka,6/17/2021 22:05,1,car,,
+458,519,901,narsingdi,6/19/2021 22:02,2,truck,auto,
+459,520,901,narsingdi,6/19/2021 22:02,2,truck,auto,
+463,524,905,narsingdi,6/20/2021 22:01,5,truck,bus,motorcycle
+464,525,905,narsingdi,6/20/2021 22:01,5,truck,bus,motorcycle
+468,531,921,faridganj,6/29/2021 22:05,3,truck,bus,
+469,532,921,faridganj,6/29/2021 22:05,3,truck,bus,
+470,534,946,rajshahi,7/9/2021 22:01,2,truck,,
+471,535,949,gopalpur,7/9/2021 22:02,5,truck,rickshaw,auto
+472,536,949,gopalpur,7/9/2021 22:02,5,truck,rickshaw,auto
+474,538,956,gulshan,7/11/2021 22:01,4,car,,
+475,539,956,dhaka,7/11/2021 22:01,4,car,,
+476,540,959,dinajpur,7/11/2021 22:01,1,auto,,
+482,547,977,chapainawabganj,7/15/2021 22:28,2,bike,motorcycle,auto
+486,553,982,madanpur,7/16/2021 22:02,2,car,,
+489,556,987,madanpur,7/16/2021 22:03,2,car,,
+493,560,996,arabpur,7/18/2021 22:01,2,truck,car,auto
+494,561,996,arabpur,7/18/2021 22:01,2,truck,car,auto
+495,562,997,rangpur,7/18/2021 22:01,6,bus,,
+496,563,1000,jashore,7/18/2021 22:01,2,train,,
+497,564,1000,jashore,7/18/2021 22:01,2,train,,
+498,565,1001,pirganj,7/18/2021 22:01,5,truck,bus,car
+499,566,1001,rangpur,7/18/2021 22:01,5,truck,bus,car
+500,567,1005,gajaria,7/22/2021 22:04,1,car,,
+505,575,1012,dhaka,7/23/2021 22:02,2,truck,car,
+511,581,1029,bhanga,7/26/2021 22:01,9,bus,,
+514,584,1033,alamdanga,7/27/2021 22:02,1,truck,,
+516,586,1037,munshiganj,7/29/2021 22:43,1,truck,,
+518,588,1041,chandina,7/29/2021 22:43,5,truck,bike,auto
+519,591,1044,sarai,7/30/2021 22:02,1,bike,,
+520,592,1047,gobindaganj,7/30/2021 22:02,6,truck,motorcycle,rickshaw
+524,596,1060,faridpur,8/1/2021 22:45,6,truck,bus,car
+525,597,1060,joypurhat,8/1/2021 22:45,6,truck,bus,car
+529,601,1072,narayanganj,8/4/2021 22:08,1,car,,
+532,604,1074,khilgaon,8/4/2021 22:08,1,auto,,
+533,605,1074,dhaka,8/4/2021 22:08,1,auto,,
+536,610,1084,gurudaspur,8/8/2021 22:02,6,truck,,
+538,612,1085,gurudaspur,8/8/2021 22:02,8,truck,,
+539,613,1085,gurudaspur,8/8/2021 22:02,8,truck,,
+540,614,1092,dinajpur,8/8/2021 22:02,4,bus,,
+543,617,1100,manikganj,8/10/2021 22:08,1,bus,car,
+546,620,1105,mohammadpur,8/11/2021 22:03,1,motorcycle,auto,
+548,622,1106,chattogram,8/11/2021 22:05,1,truck,bike,
+550,624,1114,gazipur,8/13/2021 22:02,1,train,,
+551,625,1117,chakaria,8/15/2021 22:04,7,bus,,
+552,628,1121,chattogram,8/15/2021 22:04,1,train,,
+553,629,1121,gazipur,8/15/2021 22:04,1,train,,
+554,630,1127,dhaka,8/15/2021 22:04,1,car,,
+558,634,1135,kamarkhand,8/17/2021 22:05,5,truck,,
+559,637,1139,kamarkhand,8/17/2021 22:05,2,truck,,
+561,639,1142,narayanganj,8/17/2021 22:05,3,truck,car,auto
+562,640,1143,singhajhuli,8/17/2021 22:05,1,auto,,
+568,646,1176,gobindaganj,8/24/2021 0:42,3,bus,car,bike
+570,648,1177,shibchar,8/24/2021 0:42,6,truck,,
+571,649,1177,madaripur,8/24/2021 0:42,6,truck,,
+573,652,1190,pabna,8/25/2021 22:01,3,rickshaw,auto,
+576,656,1195,ullapara,8/25/2021 22:02,3,truck,car,rickshaw
+579,659,1203,gulshan,8/28/2021 22:02,1,car,,
+580,660,1203,dhaka,8/28/2021 22:02,1,car,,
+584,668,1233,comilla,8/29/2021 22:05,1,train,,
+588,672,1244,sitakunda,8/31/2021 1:58,1,truck,car,train
+589,673,1244,chattogram,8/31/2021 1:58,1,truck,car,train
+590,674,1249,khulna,8/31/2021 22:05,8,truck,train,
+591,675,1249,nilphamari,8/31/2021 22:05,8,truck,train,
+592,678,1255,khilgaon,9/1/2021 22:01,1,train,,
+593,679,1265,madaripur,9/5/2021 22:09,3,truck,bus,bike
+596,682,1271,motijheel,9/5/2021 22:09,2,truck,rickshaw,auto
+599,685,1283,gulshan,9/7/2021 22:07,1,auto,,
+602,689,1310,dhaka,9/12/2021 22:02,5,rickshaw,train,auto
+603,690,1310,brahmanbaria,9/12/2021 22:02,5,rickshaw,train,auto
+604,691,1313,sapmara,9/12/2021 22:02,1,motorcycle,auto,
+605,692,1313,matiranga,9/12/2021 22:02,1,motorcycle,auto,
+606,693,1314,ashuganj,9/12/2021 22:02,1,rickshaw,train,auto
+607,694,1314,chattogram,9/12/2021 22:02,1,rickshaw,train,auto
+608,696,1321,gazipur,9/14/2021 22:01,14,car,motorcycle,rickshaw
+609,697,1324,dhaka,9/15/2021 22:06,3,bike,motorcycle,auto
+610,698,1328,dumuria,9/16/2021 22:01,2,car,,
+611,699,1328,narail,9/16/2021 22:01,2,car,,
+612,700,1335,pahartali,9/17/2021 22:02,1,bus,rickshaw,
+613,703,1348,barisal,9/18/2021 22:01,3,bus,bike,
+614,704,1352,dinajpur,9/19/2021 22:01,3,bus,car,
+615,705,1352,dinajpur,9/19/2021 22:01,3,bus,car,
+616,707,1371,tangail,9/24/2021 22:01,2,truck,bus,rickshaw
+617,708,1371,khulna,9/24/2021 22:01,2,truck,bus,rickshaw
+621,714,1380,netrokona,9/26/2021 22:01,2,truck,auto,
+622,715,1386,magura,9/27/2021 22:01,2,truck,rickshaw,
+625,718,1388,dhaka,9/27/2021 22:01,3,bus,rickshaw,auto
+629,723,1404,kaliganj,10/2/2021 22:02,1,car,train,auto
+630,724,1413,sirajganj,10/5/2021 22:01,1,truck,,
+631,725,1423,narayanganj,10/7/2021 22:02,8,train,,
+638,732,1445,jashore,10/16/2021 22:00,7,truck,bus,
+639,733,1450,chandpur,10/19/2021 22:03,1,truck,,
+640,734,1450,hajiganj,10/19/2021 22:03,1,truck,,
+642,740,1463,nalka,10/20/2021 22:04,3,truck,bus,rickshaw
+644,744,1473,gafargaon,10/22/2021 22:03,2,rickshaw,train,auto
+645,745,1473,mymensingh,10/22/2021 22:03,2,rickshaw,train,auto
+647,749,1487,dhaka,10/24/2021 22:01,1,bus,auto,
+648,750,1492,ulipur,10/25/2021 22:02,1,truck,,
+649,751,1492,kurigram,10/25/2021 22:02,1,truck,,
+651,753,1520,hemayetpur,"Oct 30, 2021, 22:01:39",2,bus,auto,
+652,757,1529,sreepur,"Oct 31, 2021, 22:01:39",1,bike,motorcycle,
+653,758,1529,gazipur,"Oct 31, 2021, 22:01:39",1,bike,motorcycle,
+656,763,1546,patuakhali,"Nov 02, 2021, 22:02:04",2,motorcycle,,
+658,765,1548,dhaka,"Nov 02, 2021, 22:02:04",4,bus,,
+662,769,1561,gafargaon,"Nov 04, 2021, 22:04:44",3,rickshaw,auto,
+663,770,1561,mymensingh,"Nov 04, 2021, 22:04:44",3,rickshaw,auto,
+664,771,1564,nilphamari,"Nov 04, 2021, 22:04:44",3,truck,bus,
+665,772,1565,syedpur,"Nov 04, 2021, 22:10:44",3,truck,bus,
+666,773,1565,nilphamari,"Nov 04, 2021, 22:10:44",3,truck,bus,
+667,774,1566,sreepur,"Nov 05, 2021, 22:01:40",3,truck,bus,
+668,775,1566,gazipur,"Nov 05, 2021, 22:01:40",3,truck,bus,
+670,777,1567,dhaka,"Nov 05, 2021, 22:01:40",5,bus,,
+673,780,1583,dhaka,"Nov 07, 2021, 21:01:54",1,train,,
+678,786,1620,jashore,"Nov 11, 2021, 21:02:09",2,truck,bus,motorcycle
+679,787,1620,rahmatpur,"Nov 11, 2021, 21:02:09",2,truck,bus,motorcycle
+683,792,1631,bhuapur,"Nov 12, 2021, 21:02:35",3,motorcycle,,
+684,793,1632,kurigram,"Nov 12, 2021, 21:02:35",1,truck,,
+694,805,1747,chandpur,"Nov 24, 2021, 21:02:01",2,bike,,
+698,809,1760,chandpur,"Nov 25, 2021, 04:36:36",4,truck,bus,car
+699,810,1760,chattogram,"Nov 25, 2021, 04:36:36",4,truck,bus,car
+702,813,1762,chandpur,"Nov 25, 2021, 05:47:23",1,bus,rickshaw,auto
+703,815,1773,chandpur,"Nov 26, 2021, 04:36:36",4,truck,bus,car
+704,816,1773,chattogram,"Nov 26, 2021, 04:36:36",4,truck,bus,car
+705,817,1779,chandpur,"Nov 26, 2021, 21:03:28",3,truck,bus,bike
+706,818,1779,chandpur,"Nov 26, 2021, 21:03:28",3,truck,bus,bike
+721,835,1832,brahmanbaria,"Nov 30, 2021, 21:02:05",2,bus,auto,
+723,837,1833,dhaka,"Nov 30, 2021, 21:02:05",1,truck,bike,motorcycle
+724,838,1833,chattogram,"Nov 30, 2021, 21:02:05",1,truck,bike,motorcycle
+732,846,1879,chandpur,"Dec 03, 2021, 21:01:52",3,bus,bike,motorcycle
+734,848,1889,tangail,"Dec 04, 2021, 04:36:35",7,truck,bus,bike
+735,849,1889,chandpur,"Dec 04, 2021, 04:36:35",7,truck,bus,bike
+745,859,1903,noakhali,"Dec 06, 2021, 04:01:18",1,car,motorcycle,auto
+746,860,1907,chattogram,"Dec 06, 2021, 04:36:36",3,bus,rickshaw,train
+748,864,1920,tebaria,"Dec 07, 2021, 04:58:01",1,truck,train,
+749,865,1924,panchagarh,"Dec 07, 2021, 19:42:24",1,truck,bike,
+750,866,1930,khulna,"Dec 08, 2021, 04:03:14",3,train,,
+751,869,1937,noakhali,"Dec 08, 2021, 04:36:36",7,truck,bus,motorcycle
+753,871,1940,nilphamari,"Dec 08, 2021, 21:04:06",4,bus,rickshaw,train
+755,873,1941,chilahati,"Dec 08, 2021, 21:04:06",1,rickshaw,train,
+756,874,1941,khulna,"Dec 08, 2021, 21:04:06",1,rickshaw,train,
+757,875,1947,dhaka,"Dec 09, 2021, 04:03:07",1,bike,motorcycle,auto
+758,876,1948,mymensingh,"Dec 09, 2021, 04:03:07",4,rickshaw,train,auto
+763,883,1968,chattogram,"Dec 10, 2021, 04:41:33",3,bus,rickshaw,train
+764,884,1970,narayanganj,"Dec 10, 2021, 21:03:59",10,truck,rickshaw,auto
+768,889,1980,dinajpur,"Dec 11, 2021, 04:03:15",2,truck,,
+773,894,2009,mymensingh,"Dec 13, 2021, 07:37:22",3,truck,bike,rickshaw
+774,895,2009,dinajpur,"Dec 13, 2021, 07:37:22",3,truck,bike,rickshaw
+775,897,2018,chattogram,"Dec 14, 2021, 04:36:35",3,bus,rickshaw,tempo
+776,898,2022,jashore,"Dec 14, 2021, 21:03:57",2,truck,car,
+777,899,2022,narayanganj,"Dec 14, 2021, 21:03:57",2,truck,car,
+782,904,2046,dhaka,"Dec 17, 2021, 04:02:45",1,bus,car,train
+785,907,2051,bijoynagar,"Dec 17, 2021, 07:08:16",3,truck,rickshaw,auto
+786,908,2052,sarail,"Dec 17, 2021, 07:08:16",3,truck,bus,rickshaw
+787,909,2052,brahmanbaria,"Dec 17, 2021, 07:08:16",3,truck,bus,rickshaw
+791,913,2067,brahmanbaria,"Dec 18, 2021, 07:08:01",11,truck,bus,car
+792,914,2067,dhaka,"Dec 18, 2021, 07:08:01",11,truck,bus,car
+795,917,2079,dinajpur,"Dec 19, 2021, 16:27:58",2,bus,rickshaw,auto
+796,918,2079,dinajpur,"Dec 19, 2021, 16:27:58",2,bus,rickshaw,auto
+797,919,2081,khilgaon,"Dec 20, 2021, 04:02:17",2,bus,rickshaw,auto
+798,920,2081,khilgaon,"Dec 20, 2021, 04:02:17",2,bus,rickshaw,auto
+799,921,2092,puthia,"Dec 21, 2021, 21:02:04",6,truck,bus,
+801,923,2093,jamalpur,"Dec 21, 2021, 21:03:06",5,truck,bus,rickshaw
+802,924,2093,dinajpur,"Dec 21, 2021, 21:03:06",5,truck,bus,rickshaw
+814,942,2127,dinajpur,"Dec 24, 2021, 21:03:51",1,truck,motorcycle,
+815,945,2139,chattogram,"Dec 25, 2021, 04:08:46",3,truck,bus,car
+816,946,2139,dinajpur,"Dec 25, 2021, 04:08:46",3,truck,bus,car
+817,947,2148,lohagara,"Dec 26, 2021, 04:02:34",1,bike,motorcycle,
+820,950,2154,narayanganj,"Dec 26, 2021, 21:00:37",2,bus,train,
+821,951,2155,narayanganj,"Dec 26, 2021, 21:00:37",3,bus,train,
+822,952,2155,dhaka,"Dec 26, 2021, 21:00:37",3,bus,train,
+824,954,2160,lohagara,"Dec 26, 2021, 21:00:37",1,bike,motorcycle,
+826,956,2161,patuakhali,"Dec 26, 2021, 21:00:38",1,bus,auto,
+828,958,2163,dhaka,"Dec 27, 2021, 04:02:54",4,truck,rickshaw,auto
+829,959,2164,narayanganj,"Dec 27, 2021, 04:02:54",1,bus,train,
+830,960,2164,dhaka,"Dec 27, 2021, 04:02:54",1,bus,train,
+831,961,2167,narayanganj,"Dec 27, 2021, 04:07:31",3,bus,train,
+832,962,2167,narayanganj,"Dec 27, 2021, 04:07:31",3,bus,train,
+833,963,2180,narayanganj,"Dec 28, 2021, 04:07:56",3,bus,train,
+834,964,2180,narayanganj,"Dec 28, 2021, 04:07:56",3,bus,train,
+835,965,2181,ghoraghat,"Dec 28, 2021, 09:19:31",3,truck,,
+836,966,2181,dinajpur,"Dec 28, 2021, 09:19:31",3,truck,,
+837,967,2182,ghoraghat,"Dec 28, 2021, 17:36:45",3,truck,,
+838,968,2182,dinajpur,"Dec 28, 2021, 17:36:45",3,truck,,
+840,970,2191,dhaka,"Dec 29, 2021, 04:07:57",1,bus,,
+845,975,2202,chakaria,"Dec 30, 2021, 21:02:01",3,truck,bus,
+846,976,2202,panchbibi,"Dec 30, 2021, 21:02:01",3,truck,bus,
+848,978,2224,patuakhali,"Jan 01, 2022, 17:35:43",3,truck,bus,bike
+849,979,2224,faridpur,"Jan 01, 2022, 17:35:43",3,truck,bus,bike
+850,980,2228,jagannathpur,"Jan 02, 2022, 04:02:35",1,rickshaw,auto,
+851,981,2233,birganj,"Jan 02, 2022, 04:58:43",4,truck,motorcycle,
+852,982,2233,birampur,"Jan 02, 2022, 04:58:43",4,truck,motorcycle,
+853,983,2235,dinajpur,"Jan 02, 2022, 13:40:19",9,truck,bus,bike
+854,984,2235,jashore,"Jan 02, 2022, 13:40:19",9,truck,bus,bike
+855,985,2237,jagannathpur,"Jan 02, 2022, 21:01:40",2,rickshaw,auto,
+856,986,2243,dinajpur,"Jan 03, 2022, 04:02:39",3,truck,motorcycle,
+861,991,2251,dhaka,"Jan 04, 2022, 04:09:59",2,car,,
+862,995,2275,ramjannagar,"Jan 06, 2022, 21:02:16",1,truck,bike,
+864,997,2290,pabna,"Jan 08, 2022, 04:03:14",10,auto,,
+865,998,2308,kalikapur,"Jan 09, 2022, 14:55:43",2,truck,rickshaw,auto
+866,999,2308,pabna,"Jan 09, 2022, 14:55:43",2,truck,rickshaw,auto
+868,1001,2315,daulatpur,"Jan 10, 2022, 01:58:44",6,truck,motorcycle,auto
+869,1002,2323,daulatpur,"Jan 10, 2022, 05:19:21",2,truck,bike,motorcycle
+870,1003,2323,taragunia,"Jan 10, 2022, 05:19:21",2,truck,bike,motorcycle
+874,1007,2330,chandpur,"Jan 10, 2022, 21:01:47",2,bus,,
+875,1010,2338,pabna,"Jan 11, 2022, 04:11:52",3,truck,bike,
+877,1013,2349,chakaria,"Jan 12, 2022, 04:03:22",2,truck,bus,
+880,1016,2354,narayanganj,"Jan 12, 2022, 15:09:59",4,truck,motorcycle,
+884,1020,2371,brahmanbaria,"Jan 13, 2022, 04:08:46",2,truck,rickshaw,auto
+887,1023,2387,mymensingh,"Jan 14, 2022, 21:03:30",3,truck,bike,auto
+889,1025,2396,mymensingh,"Jan 15, 2022, 04:07:31",4,truck,bike,motorcycle
+890,1026,2396,mymensingh,"Jan 15, 2022, 04:07:31",4,truck,bike,motorcycle
+891,1027,2400,feni,"Jan 15, 2022, 21:02:02",2,car,,
+892,1028,2402,gafargaon,"Jan 15, 2022, 21:03:07",2,car,rickshaw,auto
+893,1029,2402,debipur,"Jan 15, 2022, 21:03:07",2,car,rickshaw,auto
+894,1030,2409,dinajpur,"Jan 16, 2022, 15:06:39",6,bus,bike,rickshaw
+895,1031,2409,parbatipur,"Jan 16, 2022, 15:06:39",6,bus,bike,rickshaw
+896,1032,2413,thakurgaon,"Jan 17, 2022, 04:02:20",1,motorcycle,,
+897,1033,2415,jamalpur,"Jan 17, 2022, 04:06:53",3,rickshaw,auto,
+904,1040,2422,nawabganj,"Jan 18, 2022, 04:02:52",1,truck,rickshaw,auto
+905,1041,2422,dinajpur,"Jan 18, 2022, 04:02:52",1,truck,rickshaw,auto
+906,1045,2432,khilgaon,"Jan 18, 2022, 23:10:08",3,bus,car,train
+907,1046,2432,khilgaon,"Jan 18, 2022, 23:10:08",3,bus,car,train
+908,1047,2433,begunbari,"Jan 19, 2022, 04:02:45",1,motorcycle,auto,
+910,1049,2443,khagrachhari,"Jan 20, 2022, 04:02:39",1,truck,auto,
+913,1052,2450,khagrachhari,"Jan 20, 2022, 04:09:03",2,truck,,
+915,1054,2469,patnitala,"Jan 21, 2022, 21:02:14",2,truck,rickshaw,auto
+920,1059,2475,chattogram,"Jan 22, 2022, 04:07:26",1,car,auto,
+922,1061,2478,matuail,"Jan 22, 2022, 08:16:38",1,bus,rickshaw,auto
+924,1063,2489,chattogram,"Jan 23, 2022, 04:06:57",5,truck,bus,rickshaw
+925,1065,2494,rangpur,"Jan 23, 2022, 21:02:54",4,bus,rickshaw,auto
+927,1067,2497,rangpur,"Jan 24, 2022, 04:03:01",4,bus,rickshaw,auto
+928,1068,2503,chapainawabganj,"Jan 24, 2022, 21:02:01",1,train,,
+929,1069,2521,bejgaon,"Jan 26, 2022, 21:03:22",1,bus,car,
+930,1070,2529,chattogram,"Jan 27, 2022, 21:04:29",1,auto,,
+931,1071,2546,manikganj,"Jan 29, 2022, 15:53:41",7,bus,bike,rickshaw
+933,1073,2549,shibchar,"Jan 29, 2022, 21:02:02",5,bus,car,
+934,1074,2549,madaripur,"Jan 29, 2022, 21:02:02",5,bus,car,
+938,1078,2560,aditmari,"Jan 30, 2022, 04:07:31",1,train,,
+941,1081,2564,dhaka,"Jan 30, 2022, 18:28:12",3,truck,bus,
+942,1082,2568,faridpur,"Jan 30, 2022, 21:01:48",3,car,,
+943,1083,2568,rajbari,"Jan 30, 2022, 21:01:48",3,car,,
+945,1085,2579,chandpur,"Feb 01, 2022, 04:03:53",5,car,,
+946,1086,2579,chandpur,"Feb 01, 2022, 04:03:53",5,car,,
+948,1088,2587,dhaka,"Feb 02, 2022, 04:03:21",1,bus,rickshaw,
+949,1089,2589,birampur,"Feb 02, 2022, 04:03:21",3,car,train,
+950,1090,2589,dinajpur,"Feb 02, 2022, 04:03:21",3,car,train,
+951,1091,2592,dinajpur,"Feb 02, 2022, 21:37:20",3,truck,bus,car
+952,1092,2592,birampur,"Feb 02, 2022, 21:37:20",3,truck,bus,car
+953,1093,2594,dinajpur,"Feb 02, 2022, 21:37:20",10,car,bike,
+954,1094,2594,patuakhali,"Feb 02, 2022, 21:37:20",10,car,bike,
+955,1095,2596,birampur,"Feb 02, 2022, 21:37:20",3,car,train,
+956,1096,2596,dinajpur,"Feb 02, 2022, 21:37:20",3,car,train,
+960,1100,2621,dhaka,"Feb 04, 2022, 21:02:54",7,truck,car,bike
+962,1102,2628,chandpur,"Feb 05, 2022, 04:09:55",4,bus,rickshaw,auto
+965,1105,2645,chakaria,"Feb 08, 2022, 04:26:37",3,truck,bus,
+967,1108,2650,dhaka,"Feb 09, 2022, 04:06:20",1,train,auto,
+969,1110,2656,dhaka,"Feb 09, 2022, 04:16:04",5,truck,bus,car
+970,1111,2657,gurudaspur,"Feb 09, 2022, 20:30:16",2,truck,motorcycle,
+971,1112,2657,naldanga,"Feb 09, 2022, 20:30:16",2,truck,motorcycle,
+973,1114,2659,chakaria,"Feb 09, 2022, 21:02:53",5,truck,bus,
+974,1115,2660,chakaria,"Feb 09, 2022, 21:03:20",5,truck,,
+975,1116,2661,chattogram,"Feb 10, 2022, 00:25:31",2,motorcycle,auto,
+977,1118,2662,gurudaspur,"Feb 10, 2022, 00:25:31",2,motorcycle,,
+978,1119,2662,naldanga,"Feb 10, 2022, 00:25:31",2,motorcycle,,
+979,1120,2664,natore,"Feb 10, 2022, 00:25:31",9,truck,,
+980,1121,2664,dhaka,"Feb 10, 2022, 00:25:31",9,truck,,
+981,1124,2683,panchagarh,"Feb 12, 2022, 03:29:23",3,truck,bike,train
+982,1125,2683,panchagarh,"Feb 12, 2022, 03:29:23",3,truck,bike,train
+983,1128,2692,chakaria,"Feb 12, 2022, 21:02:51",1,truck,,
+984,1129,2692,dulahazara,"Feb 12, 2022, 21:02:51",1,truck,,
+986,1135,2716,swarupkathi,"Feb 15, 2022, 04:07:28",1,bike,motorcycle,
+989,1138,2727,teknaf,"Feb 16, 2022, 21:05:27",2,rickshaw,auto,
+990,1139,2728,chattogram,"Feb 16, 2022, 21:05:27",2,motorcycle,,
+993,1142,2732,chattogram,"Feb 17, 2022, 04:07:39",5,rickshaw,auto,
+996,1145,2741,chattogram,"Feb 17, 2022, 05:12:51",4,truck,bus,motorcycle
+997,1146,2741,magura,"Feb 17, 2022, 05:12:51",4,truck,bus,motorcycle
+998,1147,2743,chattogram,"Feb 17, 2022, 23:15:48",1,car,rickshaw,auto
+1003,1154,2771,barisal,"Feb 20, 2022, 04:08:05",2,truck,bus,
+1004,1155,2785,munshiganj,"Feb 22, 2022, 04:10:11",2,truck,rickshaw,auto
+1005,1156,2790,chandpur,"Feb 23, 2022, 04:05:42",5,car,,
+1006,1157,2794,chandpur,"Feb 24, 2022, 04:00:38",5,truck,car,auto
+1007,1158,2794,munshiganj,"Feb 24, 2022, 04:00:38",5,truck,car,auto
+1008,1159,2795,bagerhat,"Feb 24, 2022, 04:00:38",10,truck,bus,motorcycle
+1009,1160,2795,nilphamari,"Feb 24, 2022, 04:00:38",10,truck,bus,motorcycle
+1010,1161,2797,munshiganj,"Feb 24, 2022, 04:00:39",2,truck,bike,motorcycle
+1011,1162,2797,patuakhali,"Feb 24, 2022, 04:00:39",2,truck,bike,motorcycle
+1012,1163,2799,jhalakathi,"Feb 24, 2022, 04:05:13",1,bus,,
+1013,1165,2808,narayanganj,"Feb 25, 2022, 04:07:07",1,truck,car,
+1014,1166,2808,dhaka,"Feb 25, 2022, 04:07:07",1,truck,car,
+1018,1171,2827,dinajpur,"Feb 28, 2022, 04:01:44",1,truck,bike,
+1019,1172,2827,dinajpur,"Feb 28, 2022, 04:01:44",1,truck,bike,
+1020,1173,2831,brahmanbaria,"Feb 28, 2022, 22:17:20",2,truck,rickshaw,auto
+1021,1174,2833,gazipur,"Feb 28, 2022, 22:17:20",1,train,,
+1022,1175,2838,dhaka,"Mar 01, 2022, 04:09:53",10,bus,car,
+1023,1176,2843,bijoynagar,"Mar 02, 2022, 21:09:33",4,rickshaw,auto,
+1024,1177,2843,brahmanbaria,"Mar 02, 2022, 21:09:33",4,rickshaw,auto,
+1025,1179,2860,bijoynagar,"Mar 03, 2022, 04:09:52",4,rickshaw,auto,
+1026,1180,2860,brahmanbaria,"Mar 03, 2022, 04:09:52",4,rickshaw,auto,
+1029,1183,2871,dinajpur,"Mar 04, 2022, 21:57:02",4,truck,bus,bike
+1030,1184,2875,dinajpur,"Mar 05, 2022, 04:00:59",2,truck,bus,motorcycle
+1031,1185,2875,kushtia,"Mar 05, 2022, 04:00:59",2,truck,bus,motorcycle
+1032,1186,2879,pirojpur,"Mar 05, 2022, 21:14:50",2,truck,auto,
+1034,1188,2885,pirojpur,"Mar 06, 2022, 04:01:38",2,truck,,
+1036,1191,2907,jashore,"Mar 08, 2022, 04:07:11",3,bike,motorcycle,
+1038,1193,2911,bijoypur,"Mar 09, 2022, 22:44:17",3,train,,
+1039,1194,2914,chakaria,"Mar 10, 2022, 04:04:57",5,truck,,
+1040,1195,2917,bagerhat,"Mar 10, 2022, 04:04:57",3,motorcycle,,
+1041,1196,2929,dhamrai,"Mar 12, 2022, 04:10:57",1,car,rickshaw,auto
+1042,1197,2932,dhaka,"Mar 12, 2022, 04:10:57",1,truck,motorcycle,
+1045,1201,2943,nilphamari,"Mar 13, 2022, 22:17:20",6,truck,bike,motorcycle
+1047,1205,2959,dhaka,"Mar 17, 2022, 01:39:45",1,bus,,
+1050,1208,2966,narsingdi,"Mar 17, 2022, 19:33:41",6,truck,bus,rickshaw
+1051,1209,2966,manikganj,"Mar 17, 2022, 19:33:41",6,truck,bus,rickshaw
+1052,1210,2968,rajbari,"Mar 18, 2022, 22:02:21",3,truck,,
+1053,1211,2968,faridpur,"Mar 18, 2022, 22:02:21",3,truck,,
+1054,1212,2969,rangpur,"Mar 18, 2022, 22:02:21",2,truck,bus,
+1056,1214,2970,narsingdi,"Mar 18, 2022, 22:03:50",3,bus,,
+1058,1216,2974,dhaka,"Mar 19, 2022, 05:08:57",2,truck,bus,
+1061,1219,2982,lohagara,"Mar 21, 2022, 22:55:00",4,truck,car,
+1062,1220,2982,chattogram,"Mar 21, 2022, 22:55:00",4,truck,car,
+1063,1221,2983,chattogram,"Mar 21, 2022, 22:55:00",5,truck,car,
+1069,1229,3006,narayanganj,"Mar 23, 2022, 05:01:17",1,car,,
+1070,1230,3008,jashore,"Mar 23, 2022, 19:18:57",3,truck,bus,
+1072,1232,3020,manikganj,"Mar 24, 2022, 22:07:30",5,truck,,
+1074,1234,3022,narsingdi,"Mar 25, 2022, 05:02:10",4,bus,rickshaw,auto
+1075,1235,3022,narsingdi,"Mar 25, 2022, 05:02:10",4,bus,rickshaw,auto
+1076,1236,3025,noagaon,"Mar 25, 2022, 05:02:18",7,truck,bus,
+1077,1237,3025,naogaon,"Mar 25, 2022, 05:02:18",7,truck,bus,
+1078,1238,3028,dinajpur,"Mar 25, 2022, 18:30:04",6,truck,rickshaw,auto
+1079,1239,3028,narsingdi,"Mar 25, 2022, 18:30:04",6,truck,rickshaw,auto
+1085,1245,3041,narsingdi,"Mar 26, 2022, 05:11:15",8,truck,rickshaw,auto
+1086,1246,3041,dinajpur,"Mar 26, 2022, 05:11:15",8,truck,rickshaw,auto
+1092,1252,3063,shibchar,"Mar 29, 2022, 05:00:38",1,truck,bus,
+1093,1253,3063,madaripur,"Mar 29, 2022, 05:00:38",1,truck,bus,
+1094,1254,3074,bagerhat,"Mar 30, 2022, 05:00:06",3,bike,motorcycle,
+1098,1260,3086,nawabganj,"Mar 31, 2022, 05:05:43",3,car,motorcycle,
+1099,1261,3086,dinajpur,"Mar 31, 2022, 05:05:43",3,car,motorcycle,
+1100,1262,3087,dinajpur,"Mar 31, 2022, 05:05:43",3,motorcycle,,
+1101,1263,3092,gopalganj,"Mar 31, 2022, 05:15:16",3,motorcycle,,
+1103,1265,3097,dinajpur,"Mar 31, 2022, 22:08:20",3,truck,motorcycle,
+1104,1266,3097,birampur,"Mar 31, 2022, 22:08:20",3,truck,motorcycle,
+1105,1267,3104,dhaka,"Apr 01, 2022, 22:01:55",1,auto,,
+1109,1271,3112,natore,"Apr 01, 2022, 22:18:58",5,bus,rickshaw,auto
+1110,1272,3112,munshiganj,"Apr 01, 2022, 22:18:58",5,bus,rickshaw,auto
+1111,1273,3114,natore,"Apr 02, 2022, 05:09:53",5,bus,rickshaw,auto
+1112,1274,3114,munshiganj,"Apr 02, 2022, 05:09:53",5,bus,rickshaw,auto
+1113,1275,3123,bagerhat,"Apr 03, 2022, 05:03:08",1,truck,bike,motorcycle
+1118,1280,3152,birampur,"Apr 06, 2022, 05:02:37",5,train,,
+1119,1281,3152,dinajpur,"Apr 06, 2022, 05:02:37",5,train,,
+1120,1282,3166,thakurgaon,"Apr 08, 2022, 06:49:50",2,truck,bike,
+1121,1283,3166,thakurgaon,"Apr 08, 2022, 06:49:50",2,truck,bike,
+1123,1285,3177,chattogram,"Apr 10, 2022, 05:02:15",4,truck,bike,rickshaw
+1125,1287,3191,lakshmipur,"Apr 11, 2022, 05:04:03",1,auto,,
+1128,1290,3212,hatia,"Apr 14, 2022, 05:03:48",1,car,rickshaw,train
+1129,1291,3213,hemayetpur,"Apr 14, 2022, 15:25:01",2,motorcycle,,
+1132,1294,3230,kutubdia,"Apr 16, 2022, 18:33:20",2,bike,,
+1133,1295,3230,chapainawabganj,"Apr 16, 2022, 18:33:20",2,bike,,
+1134,1296,3236,chattogram,"Apr 17, 2022, 06:11:25",2,truck,bus,motorcycle
+1135,1297,3236,sonaichhari,"Apr 17, 2022, 06:11:25",2,truck,bus,motorcycle
+1138,1300,3275,habiganj,"Apr 22, 2022, 14:40:42",9,truck,bike,rickshaw
+1139,1301,3275,noakhali,"Apr 22, 2022, 14:40:42",9,truck,bike,rickshaw
+1141,1303,3303,gouripur,"Apr 25, 2022, 22:02:17",2,auto,,
+1142,1304,3303,rajbari,"Apr 25, 2022, 22:02:17",2,auto,,
+1143,1305,3308,mymensingh,"Apr 27, 2022, 22:03:10",4,truck,bus,rickshaw
+1144,1306,3308,tarakanda,"Apr 27, 2022, 22:03:10",4,truck,bus,rickshaw
+1145,1307,3309,mymensingh,"Apr 27, 2022, 22:03:10",5,truck,bus,rickshaw
+1146,1308,3309,tarakanda,"Apr 27, 2022, 22:03:10",5,truck,bus,rickshaw
+1147,1309,3310,tarakanda,"Apr 27, 2022, 22:05:45",2,truck,bus,
+1149,1311,3314,narayanganj,"Apr 28, 2022, 05:08:23",3,truck,,
+1151,1313,3325,khilgaon,"Apr 29, 2022, 22:02:16",2,motorcycle,,
+1152,1314,3325,khilgaon,"Apr 29, 2022, 22:02:16",2,motorcycle,,
+1153,1315,3326,khilgaon,"Apr 29, 2022, 22:02:16",2,motorcycle,,
+1154,1316,3326,khilgaon,"Apr 29, 2022, 22:02:16",2,motorcycle,,
+1155,1317,3330,chattogram,"Apr 30, 2022, 05:04:16",1,truck,rickshaw,auto
+1156,1318,3331,khilgaon,"Apr 30, 2022, 05:04:16",2,motorcycle,,
+1157,1319,3339,dhaka,"Apr 30, 2022, 05:15:09",6,truck,bus,motorcycle
+1158,1320,3339,khulna,"Apr 30, 2022, 05:15:09",6,truck,bus,motorcycle
+1159,1321,3340,khansama,"Apr 30, 2022, 22:02:27",2,truck,,
+1161,1323,3348,bagerhat,"May 01, 2022, 07:32:46",4,truck,bus,train
+1162,1324,3357,gazipur,"May 03, 2022, 22:03:30",3,bus,rickshaw,auto
+1163,1325,3360,barisal,"May 04, 2022, 05:03:11",2,truck,bus,bike
+1165,1327,3361,gazipur,"May 04, 2022, 05:03:11",5,bus,rickshaw,auto
+1166,1328,3361,safipur,"May 04, 2022, 05:03:11",5,bus,rickshaw,auto
+1167,1329,3362,safipur,"May 04, 2022, 05:10:03",5,bus,rickshaw,auto
+1168,1330,3362,gazipur,"May 04, 2022, 05:10:03",5,bus,rickshaw,auto
+1169,1331,3366,rangpur,"May 04, 2022, 22:01:56",5,bus,motorcycle,rickshaw
+1170,1332,3366,panchagarh,"May 04, 2022, 22:01:56",5,bus,motorcycle,rickshaw
+1172,1334,3369,mymensingh,"May 04, 2022, 22:01:56",13,bus,bike,rickshaw
+1173,1335,3370,gazipur,"May 04, 2022, 22:01:56",2,bus,car,bike
+1176,1338,3378,rangpur,"May 05, 2022, 05:12:04",5,bus,rickshaw,auto
+1177,1339,3379,uttara,"May 05, 2022, 05:12:04",2,car,rickshaw,auto
+1178,1340,3380,dhaka,"May 05, 2022, 16:28:51",7,truck,bus,car
+1179,1341,3380,comilla,"May 05, 2022, 16:28:51",7,truck,bus,car
+1180,1342,3383,rangpur,"May 05, 2022, 22:04:20",5,truck,bus,car
+1181,1343,3383,rangpur,"May 05, 2022, 22:04:20",5,truck,bus,car
+1182,1344,3391,narayanganj,"May 06, 2022, 05:04:18",4,truck,bus,motorcycle
+1183,1345,3391,panchagarh,"May 06, 2022, 05:04:18",4,truck,bus,motorcycle
+1187,1349,3411,kushtia,"May 07, 2022, 05:08:46",6,truck,bus,car
+1188,1350,3411,dinajpur,"May 07, 2022, 05:08:46",6,truck,bus,car
+1191,1353,3415,panchagarh,"May 07, 2022, 22:04:39",7,bus,bike,motorcycle
+1194,1356,3424,natore,"May 08, 2022, 05:02:42",7,truck,bus,bike
+1199,1361,3448,sylhet,"May 09, 2022, 05:39:59",5,bus,motorcycle,
+1200,1362,3448,manikganj,"May 09, 2022, 05:39:59",5,bus,motorcycle,
+1201,1363,3470,munshiganj,"May 11, 2022, 07:34:51",2,truck,car,rickshaw
+1202,1364,3470,dhaka,"May 11, 2022, 07:34:51",2,truck,car,rickshaw
+1203,1365,3480,munshiganj,"May 12, 2022, 05:46:17",3,truck,bus,car
+1204,1366,3480,munshiganj,"May 12, 2022, 05:46:17",3,truck,bus,car
+1205,1367,3497,joypurhat,"May 14, 2022, 05:03:25",1,bus,,
+1207,1369,3501,joypurhat,"May 14, 2022, 05:08:56",1,bus,,
+1209,1371,3502,sirajganj,"May 14, 2022, 05:09:08",9,truck,bus,bike
+1212,1374,3504,khulna,"May 14, 2022, 14:31:52",5,bus,car,bike
+1213,1375,3508,kurigram,"May 14, 2022, 19:51:13",14,truck,,
+1214,1376,3509,khulna,"May 14, 2022, 22:02:34",3,bus,car,bike
+1215,1377,3509,dhaka,"May 14, 2022, 22:02:34",3,bus,car,bike
+1216,1378,3510,gopalganj,"May 14, 2022, 22:02:34",12,bus,car,motorcycle
+1217,1379,3510,barguna,"May 14, 2022, 22:02:34",12,bus,car,motorcycle
+1219,1381,3521,rajshahi,"May 15, 2022, 07:36:47",6,truck,motorcycle,auto
+1220,1382,3521,paba,"May 15, 2022, 07:36:47",6,truck,motorcycle,auto
+1225,1387,3535,dinajpur,"May 16, 2022, 05:08:07",3,truck,motorcycle,
+1226,1388,3535,dinajpur,"May 16, 2022, 05:08:07",3,truck,motorcycle,
+1227,1389,3536,dhaka,"May 16, 2022, 05:08:22",7,truck,bus,motorcycle
+1228,1390,3536,rajshahi,"May 16, 2022, 05:08:22",7,truck,bus,motorcycle
+1229,1391,3537,magura,"May 16, 2022, 05:08:22",15,truck,bus,
+1230,1392,3537,magura,"May 16, 2022, 05:08:22",15,truck,bus,
+1232,1394,3578,dhaka,"May 20, 2022, 05:11:05",2,car,rickshaw,auto
+1233,1395,3580,chandpur,"May 20, 2022, 08:23:18",2,rickshaw,auto,
+1234,1396,3580,chandpur,"May 20, 2022, 08:23:18",2,rickshaw,auto,
+1235,1397,3582,chandpur,"May 20, 2022, 22:02:17",1,rickshaw,auto,
+1236,1398,3583,dhamrai,"May 20, 2022, 22:02:17",2,bus,,
+1237,1399,3583,dhaka,"May 20, 2022, 22:02:17",2,bus,,
+1238,1400,3586,kaliganj,"May 21, 2022, 05:04:09",3,truck,car,train
+1239,1401,3586,gazipur,"May 21, 2022, 05:04:09",3,truck,car,train
+1240,1402,3591,chandpur,"May 21, 2022, 05:10:12",2,truck,rickshaw,auto
+1241,1403,3591,chandpur,"May 21, 2022, 05:10:12",2,truck,rickshaw,auto
+1242,1404,3592,gazipur,"May 21, 2022, 08:35:18",9,truck,bus,car
+1244,1406,3605,faridpur,"May 23, 2022, 05:02:48",1,truck,,
+1245,1407,3610,dhaka,"May 23, 2022, 05:08:33",1,bus,,
+1246,1408,3610,narsingdi,"May 23, 2022, 05:08:33",1,bus,,
+1247,1409,3628,satkhamair,"May 25, 2022, 22:02:14",3,truck,train,
+1249,1411,3630,dhaka,"May 26, 2022, 04:19:33",3,bus,,
+1251,1413,3638,ullapara,"May 26, 2022, 05:10:16",5,truck,,
+1252,1414,3642,dhaka,"May 26, 2022, 15:16:21",3,bus,,
+1260,1422,3675,bhandaria,"May 29, 2022, 19:09:06",10,bus,,
+1262,1424,3684,ramgati,"May 30, 2022, 05:03:02",2,motorcycle,,
+1263,1425,3684,lakshmipur,"May 30, 2022, 05:03:02",2,motorcycle,,
+1264,1426,3706,rajbari,"Jun 01, 2022, 05:04:22",6,truck,car,rickshaw
+1265,1427,3706,chandpur,"Jun 01, 2022, 05:04:22",6,truck,car,rickshaw
+1267,1429,3707,dhaka,"Jun 01, 2022, 05:04:22",1,truck,auto,
+1268,1430,3709,rajbari,"Jun 01, 2022, 05:04:22",7,truck,car,rickshaw
+1269,1431,3713,kalukhali,"Jun 01, 2022, 05:11:55",6,truck,car,rickshaw
+1271,1433,3714,rajbari,"Jun 01, 2022, 05:11:55",6,truck,rickshaw,auto
+1274,1436,3716,rajbari,"Jun 01, 2022, 22:03:53",10,truck,bus,car
+1275,1437,3716,khulna,"Jun 01, 2022, 22:03:53",10,truck,bus,car
+1276,1438,3717,rajbari,"Jun 01, 2022, 22:03:53",6,truck,car,rickshaw
+1277,1439,3718,dinajpur,"Jun 02, 2022, 02:38:00",2,truck,car,bike
+1278,1440,3718,dinajpur,"Jun 02, 2022, 02:38:00",2,truck,car,bike
+1279,1441,3722,dumuria,"Jun 02, 2022, 05:10:14",1,truck,bus,bike
+1284,1446,3741,narsingdi,"Jun 04, 2022, 22:04:27",3,train,,
+1286,1448,3749,dhaka,"Jun 05, 2022, 05:09:08",4,truck,bus,
+1289,1451,3750,dhaka,"Jun 05, 2022, 05:09:08",3,truck,bus,car
+1292,1454,3757,rajbari,"Jun 05, 2022, 22:02:02",4,truck,bus,
+1295,1457,3785,savar,"Jun 07, 2022, 05:03:37",5,truck,bus,
+1298,1460,3788,dhaka,"Jun 07, 2022, 05:03:37",8,bus,car,rickshaw
+1301,1463,3795,savar,"Jun 07, 2022, 22:03:16",4,bus,,
+1304,1466,3804,khetlal,"Jun 08, 2022, 19:47:11",2,bike,,
+1305,1467,3804,joypurhat,"Jun 08, 2022, 19:47:11",2,bike,,
+1308,1470,3813,savar,"Jun 09, 2022, 03:28:55",5,truck,bus,
+1311,1473,3818,savar,"Jun 09, 2022, 05:10:14",6,truck,bus,
+1312,1474,3821,sitakunda,"Jun 09, 2022, 15:55:10",2,bus,,
+1313,1475,3821,keshabpur,"Jun 09, 2022, 15:55:10",2,bus,,
+1314,1476,3823,chapainawabganj,"Jun 09, 2022, 22:03:56",2,truck,,
+1319,1481,3828,dinajpur,"Jun 10, 2022, 05:03:46",4,truck,bus,rickshaw
+1320,1482,3828,kishoreganj,"Jun 10, 2022, 05:03:46",4,truck,bus,rickshaw
+1327,1489,3845,ujirpur,"Jun 11, 2022, 17:07:39",6,truck,bus,bike
+1328,1490,3849,italy,"Jun 11, 2022, 22:02:16",7,bus,,
+1330,1492,3851,kumarkhali,"Jun 11, 2022, 22:03:35",1,bike,motorcycle,
+1331,1493,3853,kamarkhand,"Jun 11, 2022, 22:03:52",11,train,,
+1332,1494,3853,sirajganj,"Jun 11, 2022, 22:03:52",11,train,,
+1333,1495,3855,savar,"Jun 12, 2022, 05:02:21",5,truck,bus,
+1334,1496,3858,kushtia,"Jun 12, 2022, 05:08:28",4,bus,bike,auto
+1342,1504,3910,thakurgaon,"Jun 17, 2022, 17:09:05",3,bus,bike,auto
+1343,1505,3910,chattogram,"Jun 17, 2022, 17:09:05",3,bus,bike,auto
+1345,1507,3927,gazipur,"Jun 19, 2022, 05:26:06",3,truck,bus,motorcycle
+1346,1508,3927,gazipur,"Jun 19, 2022, 05:26:06",3,truck,bus,motorcycle
+1348,1510,3932,keraniganj,"Jun 19, 2022, 22:03:33",3,car,,
+1351,1513,3945,mithapukur,"Jun 21, 2022, 05:17:54",2,truck,bike,
+1352,1514,3945,mithapukur,"Jun 21, 2022, 05:17:54",2,truck,bike,
+1353,1515,3951,mithapukur,"Jun 21, 2022, 22:02:27",2,truck,bike,
+1354,1516,3964,naogaon,"Jun 24, 2022, 06:05:38",5,truck,rickshaw,auto
+1355,1517,3967,naogaon,"Jun 24, 2022, 17:56:44",8,truck,bike,rickshaw
+1357,1519,3987,nagarkanda,"Jun 26, 2022, 05:02:34",2,truck,bus,
+1358,1520,3987,faridpur,"Jun 26, 2022, 05:02:34",2,truck,bus,
+1359,1521,3993,shahjahanpur,"Jun 26, 2022, 22:02:10",1,car,bike,motorcycle
+1360,1522,4029,dhaka,"Jun 29, 2022, 22:07:43",2,bike,motorcycle,auto
+1362,1524,4048,jatrabari,"Jul 01, 2022, 06:26:37",2,truck,rickshaw,auto
+1363,1525,4048,khilgaon,"Jul 01, 2022, 06:26:37",2,truck,rickshaw,auto
+1365,1527,4058,dhaka,"Jul 02, 2022, 05:11:37",1,truck,bus,
+1369,1531,4064,kalihati,"Jul 03, 2022, 05:03:57",2,train,,
+1370,1532,4067,faridpur,"Jul 03, 2022, 22:02:34",8,truck,bus,motorcycle
+1371,1533,4067,faridpur,"Jul 03, 2022, 22:02:34",8,truck,bus,motorcycle
+1372,1534,4068,boalmari,"Jul 03, 2022, 22:02:34",3,truck,motorcycle,
+1373,1535,4068,faridpur,"Jul 03, 2022, 22:02:34",3,truck,motorcycle,
+1375,1537,4084,jaintapur,"Jul 04, 2022, 05:11:09",3,truck,motorcycle,
+1379,1541,4114,thakurgaon,"Jul 08, 2022, 05:21:33",7,truck,motorcycle,rickshaw
+1380,1542,4114,faridpur,"Jul 08, 2022, 05:21:33",7,truck,motorcycle,rickshaw
+1383,1545,4125,rajendrapur,"Jul 09, 2022, 05:10:42",3,bus,rickshaw,auto
+1384,1546,4125,kapasia,"Jul 09, 2022, 05:10:42",3,bus,rickshaw,auto
+1385,1547,4130,chattogram,"Jul 09, 2022, 05:10:54",3,bus,bike,rickshaw
+1386,1548,4130,gazipur,"Jul 09, 2022, 05:10:54",3,bus,bike,rickshaw
+1387,1549,4135,gazipur,"Jul 09, 2022, 11:18:00",11,bus,bike,rickshaw
+1388,1550,4135,chattogram,"Jul 09, 2022, 11:18:00",11,bus,bike,rickshaw
+1389,1551,4136,dhaka,"Jul 09, 2022, 11:18:00",3,bus,motorcycle,
+1390,1552,4136,lakshmipur,"Jul 09, 2022, 11:18:00",3,bus,motorcycle,
+1391,1553,4138,sariakandi,"Jul 09, 2022, 22:02:19",12,bus,bike,motorcycle
+1392,1554,4138,shajahanpur,"Jul 09, 2022, 22:02:19",12,bus,bike,motorcycle
+1393,1555,4144,naogaon,"Jul 10, 2022, 05:08:12",7,bike,motorcycle,rickshaw
+1394,1556,4144,noakhali,"Jul 10, 2022, 05:08:12",7,bike,motorcycle,rickshaw
+1396,1558,4145,dhaka,"Jul 10, 2022, 05:08:23",3,rickshaw,auto,
+1397,1559,4147,begumganj,"Jul 10, 2022, 05:08:23",3,rickshaw,auto,
+1398,1560,4147,noakhali,"Jul 10, 2022, 05:08:23",3,rickshaw,auto,
+1399,1561,4153,dhaka,"Jul 10, 2022, 22:03:14",3,truck,,
+1401,1563,4162,manikganj,"Jul 11, 2022, 22:09:04",11,truck,bus,bike
+1402,1564,4166,chattogram,"Jul 11, 2022, 22:13:15",6,bus,rickshaw,auto
+1405,1567,4173,patuakhali,"Jul 12, 2022, 07:43:41",3,bus,rickshaw,auto
+1407,1569,4174,chattogram,"Jul 12, 2022, 07:43:41",6,bus,rickshaw,auto
+1408,1570,4175,manikganj,"Jul 12, 2022, 07:43:41",3,truck,bike,motorcycle
+1412,1574,4185,tangail,"Jul 13, 2022, 22:08:35",2,truck,bus,bike
+1413,1575,4185,chattogram,"Jul 13, 2022, 22:08:35",2,truck,bus,bike
+1416,1578,4188,chattogram,"Jul 13, 2022, 22:08:35",6,bus,rickshaw,auto
+1419,1581,4196,sitakunda,"Jul 14, 2022, 05:21:13",2,motorcycle,,
+1420,1582,4196,chattogram,"Jul 14, 2022, 05:21:13",2,motorcycle,,
+1422,1584,4205,gazipur,"Jul 15, 2022, 22:09:33",12,truck,bus,car
+1428,1590,4215,gazipur,"Jul 16, 2022, 05:04:23",7,truck,bus,car
+1429,1591,4215,gazipur,"Jul 16, 2022, 05:04:23",7,truck,bus,car
+1430,1592,4218,mymensingh,"Jul 16, 2022, 05:10:09",4,truck,bus,car
+1431,1593,4218,bogura,"Jul 16, 2022, 05:10:09",4,truck,bus,car
+1432,1594,4219,gazipur,"Jul 16, 2022, 05:10:09",3,car,bike,motorcycle
+1433,1595,4220,gazipur,"Jul 16, 2022, 05:10:09",8,bus,car,bike
+1434,1596,4220,gazipur,"Jul 16, 2022, 05:10:09",8,bus,car,bike
+1437,1599,4229,kahaloo,"Jul 16, 2022, 22:03:39",4,car,,
+1438,1600,4229,bogura,"Jul 16, 2022, 22:03:39",4,car,,
+1439,1601,4231,mirzapur,"Jul 16, 2022, 22:05:26",10,truck,bus,car
+1440,1602,4231,mymensingh,"Jul 16, 2022, 22:05:26",10,truck,bus,car
+1443,1605,4241,mirzapur,"Jul 17, 2022, 05:10:35",3,truck,bus,car
+1444,1606,4241,mirzapur,"Jul 17, 2022, 05:10:35",3,truck,bus,car
+1446,1608,4245,jashore,"Jul 17, 2022, 18:10:45",4,truck,bus,auto
+1447,1609,4245,jashore,"Jul 17, 2022, 18:10:45",4,truck,bus,auto
+1448,1610,4250,barisal,"Jul 17, 2022, 22:02:10",5,truck,bus,car
+1457,1619,4279,sreenagar,"Jul 19, 2022, 05:09:33",1,motorcycle,,
+1458,1620,4290,bijoynagar,"Jul 19, 2022, 22:03:54",3,bus,,
+1459,1621,4290,brahmanbaria,"Jul 19, 2022, 22:03:54",3,bus,,
+1460,1622,4294,bakerganj,"Jul 20, 2022, 22:06:15",6,bus,rickshaw,auto
+1462,1624,4295,barisal,"Jul 20, 2022, 22:06:15",5,bus,rickshaw,auto
+1464,1626,4298,bakerganj,"Jul 20, 2022, 22:06:15",5,bus,,
+1467,1629,4310,barisal,"Jul 21, 2022, 05:10:11",5,bus,rickshaw,auto
+1468,1630,4311,barisal,"Jul 21, 2022, 05:10:11",5,bus,rickshaw,auto
+1470,1632,4318,bakerganj,"Jul 21, 2022, 22:03:42",1,bus,,
+1471,1633,4321,wazirpur,"Jul 21, 2022, 22:04:04",5,bus,,
+1474,1636,4329,dhaka,"Jul 22, 2022, 05:26:38",9,bus,,
+1476,1638,4330,dhaka,"Jul 22, 2022, 05:26:38",1,rickshaw,,
+1478,1640,4331,dhaka,"Jul 22, 2022, 05:26:38",10,bus,rickshaw,auto
+1479,1641,4332,barisal,"Jul 22, 2022, 05:26:38",6,bus,,
+1480,1642,4333,feni,"Jul 22, 2022, 18:08:37",6,truck,bus,motorcycle
+1481,1643,4333,joypurhat,"Jul 22, 2022, 18:08:37",6,truck,bus,motorcycle
+1482,1644,4345,feni,"Jul 23, 2022, 05:09:37",5,truck,bus,motorcycle
+1483,1645,4345,dhaka,"Jul 23, 2022, 05:09:37",5,truck,bus,motorcycle
+1484,1646,4346,magura,"Jul 23, 2022, 05:09:37",2,truck,,
+1487,1649,4349,chattogram,"Jul 23, 2022, 19:19:12",3,bus,bike,motorcycle
+1488,1650,4349,nachnapara,"Jul 23, 2022, 19:19:12",3,bus,bike,motorcycle
+1491,1653,4367,chattogram,"Jul 24, 2022, 05:08:09",4,truck,bus,motorcycle
+1492,1654,4367,chattogram,"Jul 24, 2022, 05:08:09",4,truck,bus,motorcycle
+1493,1655,4372,eliotganj,"Jul 24, 2022, 22:03:15",3,car,,
+1494,1656,4372,comilla,"Jul 24, 2022, 22:03:15",3,car,,
+1495,1657,4375,gazipur,"Jul 24, 2022, 22:03:40",15,bus,train,
+1497,1659,4376,dhaka,"Jul 24, 2022, 22:03:40",3,bus,train,
+1498,1660,4376,dhaka,"Jul 24, 2022, 22:03:40",3,bus,train,
+1501,1663,4386,barisal,"Jul 25, 2022, 05:08:30",5,bus,rickshaw,auto
+1504,1666,4394,dinajpur,"Jul 26, 2022, 03:25:39",15,bus,,
+1507,1669,4398,maijpara,"Jul 26, 2022, 05:03:17",5,bus,train,
+1509,1671,4399,purbadhala,"Jul 26, 2022, 05:10:40",1,truck,,
+1510,1672,4400,netrokona,"Jul 26, 2022, 05:10:40",2,truck,bike,
+1511,1673,4400,hamidpur,"Jul 26, 2022, 05:10:40",2,truck,bike,
+1516,1678,4438,mirsharai,"Jul 29, 2022, 22:02:49",11,bus,train,
+1518,1680,4439,mirsharai,"Jul 29, 2022, 22:02:49",11,bus,train,
+1520,1682,4448,dhaka,"Jul 30, 2022, 05:09:16",11,bus,tempo,train
+1524,1686,4450,mirsharai,"Jul 30, 2022, 05:09:16",11,bus,train,
+1525,1687,4450,chattogram,"Jul 30, 2022, 05:09:16",11,bus,train,
+1529,1691,4452,mirsharai,"Jul 30, 2022, 05:09:16",11,bus,train,
+1530,1692,4453,mirsharai,"Jul 30, 2022, 05:09:16",11,bus,train,
+1533,1695,4455,chuadanga,"Jul 30, 2022, 20:32:34",7,truck,bus,bike
+1534,1696,4455,habiganj,"Jul 30, 2022, 20:32:34",7,truck,bus,bike
+1537,1699,4462,chuadanga,"Jul 30, 2022, 22:03:46",3,bike,motorcycle,
+1539,1701,4463,mirsharai,"Jul 31, 2022, 05:03:26",11,bus,train,
+1540,1702,4463,chattogram,"Jul 31, 2022, 05:03:26",11,bus,train,
+1543,1705,4467,mirsharai,"Jul 31, 2022, 05:03:26",11,bus,train,
+1544,1706,4467,chattogram,"Jul 31, 2022, 05:03:26",11,bus,train,
+1545,1707,4471,habiganj,"Jul 31, 2022, 05:08:25",7,truck,bus,motorcycle
+1546,1708,4471,debipur,"Jul 31, 2022, 05:08:25",7,truck,bus,motorcycle
+1547,1709,4472,mohammadpur,"Jul 31, 2022, 05:08:25",1,bus,rickshaw,auto
+1548,1710,4473,rajendrapur,"Jul 31, 2022, 05:08:25",10,truck,bus,car
+1549,1711,4473,sreenagar,"Jul 31, 2022, 05:08:25",10,truck,bus,car
+1551,1713,4474,mirsharai,"Jul 31, 2022, 05:08:25",11,bus,train,
+1553,1715,4476,dhaka,"Jul 31, 2022, 22:02:34",2,bus,,
+1554,1716,4480,gazipur,"Jul 31, 2022, 22:02:34",5,bus,rickshaw,auto
+1555,1717,4481,dhaka,"Jul 31, 2022, 22:02:34",2,bus,,
+1556,1718,4488,dhaka,"Aug 01, 2022, 05:08:22",2,bus,,
+1559,1721,4504,nizampur,"Aug 02, 2022, 22:04:49",1,truck,auto,
+1561,1723,4510,chattogram,"Aug 03, 2022, 05:11:17",1,rickshaw,,
+1570,1732,4545,boalia,"Aug 06, 2022, 05:03:32",1,bus,,
+1571,1733,4546,jaintapur,"Aug 06, 2022, 05:09:32",2,car,,
+1572,1734,4546,sylhet,"Aug 06, 2022, 05:09:32",2,car,,
+1573,1735,4547,tangail,"Aug 06, 2022, 05:09:32",6,truck,motorcycle,
+1574,1736,4550,chandina,"Aug 06, 2022, 18:56:00",2,truck,bus,bike
+1575,1737,4551,nagarkanda,"Aug 06, 2022, 18:56:00",1,motorcycle,,
+1576,1738,4551,faridpur,"Aug 06, 2022, 18:56:00",1,motorcycle,,
+1583,1745,4583,feni,"Aug 10, 2022, 05:10:04",9,bus,train,
+1585,1747,4584,nawabganj,"Aug 10, 2022, 05:10:04",1,train,,
+1586,1748,4584,dhaka,"Aug 10, 2022, 05:10:04",1,train,,
+1590,1752,4598,narsingdi,"Aug 11, 2022, 22:01:45",4,train,,
+1591,1753,4598,brahmanbaria,"Aug 11, 2022, 22:01:45",4,train,,
+1592,1754,4610,salanga,"Aug 12, 2022, 05:09:34",1,bus,,
+1595,1757,4615,phulpur,"Aug 12, 2022, 22:03:45",2,bus,rickshaw,auto
+1599,1761,4619,dinajpur,"Aug 13, 2022, 05:54:14",3,truck,bike,motorcycle
+1600,1762,4619,birol,"Aug 13, 2022, 05:54:14",3,truck,bike,motorcycle
+1601,1763,4623,mohadevpur,"Aug 13, 2022, 22:02:08",13,car,,
+1602,1764,4623,naogaon,"Aug 13, 2022, 22:02:08",13,car,,
+1603,1765,4633,srinagar,"Aug 14, 2022, 21:54:16",2,bus,,
+1604,1766,4633,munshiganj,"Aug 14, 2022, 21:54:16",2,bus,,
+1606,1768,4645,uttara,"Aug 15, 2022, 22:01:41",5,car,,
+1607,1769,4648,uttara,"Aug 15, 2022, 22:01:41",5,bus,car,
+1609,1771,4649,uttara,"Aug 15, 2022, 22:01:41",5,car,,
+1610,1772,4649,gazipur,"Aug 15, 2022, 22:01:41",5,car,,
+1611,1773,4650,uttara,"Aug 15, 2022, 22:01:41",1,car,,
+1612,1774,4653,uttara,"Aug 15, 2022, 22:21:03",5,bus,car,
+1615,1777,4665,uttara,"Aug 16, 2022, 05:10:11",5,car,,
+1618,1780,4683,uttara,"Aug 18, 2022, 05:03:52",5,bus,car,
+1619,1781,4689,mirsharai,"Aug 18, 2022, 05:03:52",13,bus,train,
+1620,1782,4692,uttara,"Aug 18, 2022, 05:03:52",5,car,,
+1621,1783,4692,dhaka,"Aug 18, 2022, 05:03:52",5,car,,
+1622,1784,4698,shahjahanpur,"Aug 18, 2022, 05:23:54",4,truck,rickshaw,auto
+1623,1785,4700,dhaka,"Aug 18, 2022, 05:23:54",1,car,,
+1625,1787,4703,uttara,"Aug 18, 2022, 22:00:13",1,car,train,
+1627,1789,4709,dhaka,"Aug 18, 2022, 22:06:35",1,car,,
+1630,1792,4714,uttara,"Aug 19, 2022, 05:03:38",1,car,,
+1634,1796,4726,uttara,"Aug 20, 2022, 05:03:42",15,car,,
+1642,1804,4747,gabtoli,"Aug 21, 2022, 22:01:53",2,rickshaw,auto,
+1643,1805,4750,uttara,"Aug 21, 2022, 22:03:20",1,car,,
+1661,1823,4787,sherpur,"Aug 23, 2022, 22:08:50",7,truck,bus,
+1662,1824,4787,kalapara,"Aug 23, 2022, 22:08:50",7,truck,bus,
+1663,1825,4791,mirsharai,"Aug 23, 2022, 22:08:50",13,bus,train,auto
+1667,1829,4816,bhola,"Aug 25, 2022, 05:09:18",4,truck,rickshaw,auto
+1668,1830,4818,uttara,"Aug 25, 2022, 22:07:30",15,bus,car,tempo
+1679,1841,4833,uttara,"Aug 26, 2022, 22:01:51",5,car,,
+1680,1842,4833,uttara,"Aug 26, 2022, 22:01:51",5,car,,
+1687,1849,4847,teknaf,"Aug 27, 2022, 05:09:33",4,truck,rickshaw,auto
+1694,1856,4857,uttara,"Aug 28, 2022, 05:03:14",1,auto,,
+1696,1858,4879,bogura,"Aug 29, 2022, 05:02:45",1,truck,rickshaw,auto
+1697,1859,4884,khulna,"Aug 29, 2022, 22:05:48",4,truck,bus,motorcycle
+1698,1860,4884,mirzapur,"Aug 29, 2022, 22:05:48",4,truck,bus,motorcycle
+1699,1861,4896,durgapur,"Aug 30, 2022, 05:09:26",2,bus,motorcycle,
+1702,1864,4904,dhaka,"Aug 31, 2022, 05:03:23",1,bus,bike,
+1704,1866,4908,sylhet,"Aug 31, 2022, 05:09:36",2,bus,bike,motorcycle
+1705,1867,4908,jakiganj,"Aug 31, 2022, 05:09:36",2,bus,bike,motorcycle
+1706,1868,4909,dhaka,"Aug 31, 2022, 05:09:36",1,bike,,
+1708,1870,4912,chattogram,"Aug 31, 2022, 22:08:31",10,bus,train,
+1710,1872,4922,mirsharai,"Sep 01, 2022, 05:09:35",11,bus,car,train
+1711,1873,4922,chattogram,"Sep 01, 2022, 05:09:35",11,bus,car,train
+1716,1878,4960,jashore,"Sep 04, 2022, 05:03:48",1,rickshaw,,
+1717,1879,4960,jhikargacha,"Sep 04, 2022, 05:03:48",1,rickshaw,,
+1720,1882,4967,sylhet,"Sep 04, 2022, 05:09:01",4,bus,rickshaw,auto
+1722,1884,4973,uttara,"Sep 04, 2022, 22:02:06",5,car,,
+1723,1885,4986,rangpur,"Sep 05, 2022, 05:08:51",9,bus,,
+1730,1892,5004,bhanga,"Sep 06, 2022, 05:09:19",1,train,,
+1731,1893,5026,khulna,"Sep 08, 2022, 05:09:06",1,truck,auto,
+1733,1895,5027,jatrabari,"Sep 08, 2022, 19:38:29",3,truck,bike,motorcycle
+1734,1896,5027,sarulia,"Sep 08, 2022, 19:38:29",3,truck,bike,motorcycle
+1736,1898,5037,gopalganj,"Sep 09, 2022, 05:09:44",3,truck,bus,
+1737,1899,5037,khulna,"Sep 09, 2022, 05:09:44",3,truck,bus,
+1738,1900,5065,rangpur,"Sep 11, 2022, 05:09:33",3,bus,,
+1739,1901,5068,dhaka,"Sep 11, 2022, 22:01:39",4,car,,
+1740,1902,5068,rangpur,"Sep 11, 2022, 22:01:39",4,car,,
+1742,1904,5070,dhaka,"Sep 11, 2022, 22:01:39",9,truck,car,
+1743,1905,5072,dhaka,"Sep 12, 2022, 00:24:47",11,truck,bus,bike
+1744,1906,5072,rangpur,"Sep 12, 2022, 00:24:47",11,truck,bus,bike
+1745,1907,5073,dhaka,"Sep 12, 2022, 00:24:47",9,bus,car,
+1746,1908,5074,kushtia,"Sep 12, 2022, 05:06:01",4,truck,auto,
+1748,1910,5076,kushtia,"Sep 12, 2022, 05:06:01",4,truck,auto,
+1750,1912,5080,tejgaon,"Sep 12, 2022, 22:08:24",11,bus,,
+1751,1913,5083,daulatpur,"Sep 12, 2022, 22:08:24",4,truck,auto,
+1752,1914,5083,kushtia,"Sep 12, 2022, 22:08:24",4,truck,auto,
+1753,1915,5084,tejgaon,"Sep 12, 2022, 22:08:24",1,bus,,
+1754,1916,5084,tejgaon,"Sep 12, 2022, 22:08:24",1,bus,,
+1755,1917,5085,tejgaon,"Sep 12, 2022, 22:08:24",10,bus,,
+1757,1919,5087,tejgaon,"Sep 12, 2022, 22:08:24",10,bus,,
+1759,1921,5092,daulatpur,"Sep 12, 2022, 22:21:42",3,truck,,
+1760,1922,5092,kushtia,"Sep 12, 2022, 22:21:42",3,truck,,
+1763,1925,5103,daulatpur,"Sep 13, 2022, 05:09:51",4,truck,,
+1764,1926,5103,kushtia,"Sep 13, 2022, 05:09:51",4,truck,,
+1767,1929,5110,dhaka,"Sep 13, 2022, 22:04:07",13,bus,,
+1769,1931,5117,akkelpur,"Sep 14, 2022, 05:08:59",1,truck,rickshaw,auto
+1770,1932,5131,chattogram,"Sep 15, 2022, 05:09:19",4,bus,,
+1773,1935,5164,panchagarh,"Sep 18, 2022, 05:08:49",1,rickshaw,auto,
+1782,1944,5177,khulna,"Sep 19, 2022, 22:06:45",1,bus,motorcycle,
+1784,1946,5178,khulna,"Sep 19, 2022, 22:41:59",2,bus,motorcycle,auto
+1791,1953,5199,dhaka,"Sep 23, 2022, 19:13:11",2,truck,bus,car
+1792,1954,5200,rangpur,"Sep 23, 2022, 19:13:11",10,truck,bus,
+1794,1956,5203,teknaf,"Sep 23, 2022, 22:04:09",1,truck,rickshaw,auto
+1795,1957,5209,dinajpur,"Sep 24, 2022, 05:11:18",2,truck,,
+1797,1959,5210,dhaka,"Sep 24, 2022, 05:11:18",3,truck,bus,car
+1798,1960,5210,chattogram,"Sep 24, 2022, 05:11:18",3,truck,bus,car
+1799,1961,5212,lalpur,"Sep 24, 2022, 05:11:18",1,train,,
+1800,1962,5215,dinajpur,"Sep 24, 2022, 22:03:01",2,truck,,
+1801,1963,5219,kalai,"Sep 25, 2022, 05:02:57",3,truck,auto,
+1802,1964,5219,bogura,"Sep 25, 2022, 05:02:57",3,truck,auto,
+1803,1965,5221,patuakhali,"Sep 25, 2022, 05:09:02",4,truck,motorcycle,
+1804,1966,5221,dinajpur,"Sep 25, 2022, 05:09:02",4,truck,motorcycle,
+1806,1968,5227,joypurhat,"Sep 26, 2022, 05:04:22",2,bike,motorcycle,
+1815,1977,5251,kishoreganj,"Sep 27, 2022, 22:05:57",3,bus,rickshaw,auto
+1818,1980,5269,kuliarchar,"Sep 29, 2022, 05:19:24",2,bus,rickshaw,auto
+1819,1981,5269,chhoysuti,"Sep 29, 2022, 05:19:24",2,bus,rickshaw,auto
+1820,1982,5284,magura,"Sep 30, 2022, 05:11:57",2,bus,bike,
+1824,1986,5293,brahmanbaria,"Oct 01, 2022, 22:03:49",1,motorcycle,,
+1826,1988,5302,narsingdi,"Oct 02, 2022, 05:08:54",4,truck,,
+1827,1989,5304,narsingdi,"Oct 02, 2022, 05:08:54",4,truck,rickshaw,auto
+1830,1992,5312,narsingdi,"Oct 02, 2022, 22:03:11",4,truck,rickshaw,auto
+1831,1993,5313,narsingdi,"Oct 02, 2022, 22:06:16",4,truck,,
+1835,1997,5325,gazipur,"Oct 03, 2022, 18:52:34",2,motorcycle,,
+1838,2000,5332,sirajganj,"Oct 04, 2022, 05:26:21",4,bus,,
+1841,2003,5342,santhia,"Oct 04, 2022, 22:04:30",2,truck,,
+1842,2004,5345,sirajganj,"Oct 04, 2022, 22:18:27",3,bus,,
+1843,2005,5345,kamarkhand,"Oct 04, 2022, 22:18:27",3,bus,,
+1848,2010,5365,mirzapur,"Oct 06, 2022, 05:47:19",7,truck,bus,
+1853,2015,5377,chandradighalia,"Oct 07, 2022, 05:07:25",4,bus,,
+1861,2023,5386,islamabad,"Oct 07, 2022, 05:44:47",6,truck,auto,
+1868,2030,5391,madaripur,"Oct 07, 2022, 22:04:11",2,bus,bike,
+1869,2031,5402,jhenaidah,"Oct 08, 2022, 05:12:05",3,truck,motorcycle,auto
+1871,2033,5405,jhenaidah,"Oct 08, 2022, 05:12:21",3,truck,motorcycle,
+1874,2036,5417,narayanganj,"Oct 09, 2022, 05:06:29",5,bus,rickshaw,auto
+1876,2038,5418,narayanganj,"Oct 09, 2022, 05:06:29",5,bus,rickshaw,auto
+1877,2039,5422,ishwardi,"Oct 09, 2022, 05:09:46",3,bus,bike,motorcycle
+1879,2041,5424,jhenaidah,"Oct 09, 2022, 05:09:58",3,truck,motorcycle,
+1882,2044,5425,kanchpur,"Oct 09, 2022, 05:09:58",5,bus,rickshaw,auto
+1883,2045,5426,narayanganj,"Oct 09, 2022, 05:09:58",5,bus,rickshaw,auto
+1885,2047,5433,narayanganj,"Oct 09, 2022, 22:10:33",5,bus,rickshaw,auto
+1888,2050,5437,narayanganj,"Oct 10, 2022, 05:10:01",5,bus,rickshaw,auto
+1890,2052,5438,dhaka,"Oct 10, 2022, 05:10:01",10,bus,,
+1893,2055,5448,dhaka,"Oct 11, 2022, 05:09:36",2,bus,bike,auto
+1894,2056,5448,shyampur,"Oct 11, 2022, 05:09:36",2,bus,bike,auto
+1895,2057,5457,araihazar,"Oct 12, 2022, 05:10:43",2,bus,,
+1896,2058,5457,narayanganj,"Oct 12, 2022, 05:10:43",2,bus,,
+1897,2059,5459,narayanganj,"Oct 12, 2022, 22:42:50",2,bus,rickshaw,auto
+1898,2060,5461,dinajpur,"Oct 13, 2022, 01:23:00",3,truck,motorcycle,
+1899,2061,5461,panchagarh,"Oct 13, 2022, 01:23:00",3,truck,motorcycle,
+1901,2063,5468,dinajpur,"Oct 13, 2022, 22:06:50",2,truck,bike,motorcycle
+1902,2064,5481,patenga,"Oct 14, 2022, 22:04:02",1,car,,
+1917,2079,5538,narayanganj,"Oct 19, 2022, 05:18:46",1,rickshaw,auto,
+1918,2080,5544,rangamati,"Oct 20, 2022, 05:35:33",6,car,,
+1920,2082,5545,narsingdi,"Oct 20, 2022, 13:55:20",2,bike,motorcycle,rickshaw
+1921,2083,5552,narsingdi,"Oct 21, 2022, 05:09:26",2,bike,motorcycle,
+1925,2087,5560,madrasa,"Oct 21, 2022, 22:11:34",1,bike,rickshaw,auto
+1926,2088,5560,thakurgaon,"Oct 21, 2022, 22:11:34",1,bike,rickshaw,auto
+1929,2091,5569,kashinathpur,"Oct 22, 2022, 05:09:54",2,bus,motorcycle,
+1930,2092,5570,santhia,"Oct 22, 2022, 19:22:20",3,truck,bus,bike
+1931,2093,5570,gazipur,"Oct 22, 2022, 19:22:20",3,truck,bus,bike
+1933,2095,5580,jashore,"Oct 23, 2022, 05:08:35",1,bus,motorcycle,
+1934,2096,5589,golabari,"Oct 25, 2022, 05:09:29",2,truck,bus,
+1938,2100,5610,tangail,"Oct 28, 2022, 05:05:06",2,bike,motorcycle,
+1943,2105,5620,hatiya,"Oct 29, 2022, 00:58:54",4,truck,bus,car
+1944,2106,5623,narayanganj,"Oct 29, 2022, 05:08:58",5,truck,bus,motorcycle
+1945,2107,5623,narayanganj,"Oct 29, 2022, 05:08:58",5,truck,bus,motorcycle
+1960,2122,5671,kapasia,"Nov 02, 2022, 22:18:43",2,bus,rickshaw,auto
+1962,2124,5675,gazipur,"Nov 03, 2022, 02:05:29",3,bus,rickshaw,auto
+1963,2125,5675,kapasia,"Nov 03, 2022, 02:05:29",3,bus,rickshaw,auto
+1965,2127,5693,narayanganj,"Nov 04, 2022, 05:10:49",1,bus,,
+1966,2128,5701,barguna,"Nov 05, 2022, 05:17:02",5,truck,bike,motorcycle
+1967,2129,5701,barguna,"Nov 05, 2022, 05:17:02",5,truck,bike,motorcycle
+1968,2130,5705,ishwardi,"Nov 05, 2022, 22:16:07",2,bus,motorcycle,
+1969,2131,5706,faridpur,"Nov 06, 2022, 03:58:56",4,bus,rickshaw,auto
+1970,2132,5706,bhanga,"Nov 06, 2022, 03:58:56",4,bus,rickshaw,auto
+1971,2133,5707,faridpur,"Nov 06, 2022, 03:58:56",3,truck,bus,rickshaw
+1972,2134,5707,bhanga,"Nov 06, 2022, 03:58:56",3,truck,bus,rickshaw
+1973,2135,5708,kuliarchar,"Nov 06, 2022, 03:58:56",2,bus,rickshaw,auto
+1974,2136,5708,kishoreganj,"Nov 06, 2022, 03:58:56",2,bus,rickshaw,auto
+1975,2137,5709,faridpur,"Nov 06, 2022, 04:03:44",4,bus,,
+1976,2138,5711,bhairab,"Nov 06, 2022, 04:03:44",2,bus,rickshaw,auto
+1977,2139,5712,madhabpur,"Nov 06, 2022, 04:10:43",4,bus,,
+1978,2140,5716,faridpur,"Nov 06, 2022, 15:56:48",4,bus,rickshaw,auto
+1979,2141,5716,kishoreganj,"Nov 06, 2022, 15:56:48",4,bus,rickshaw,auto
+1980,2142,5719,mymensingh,"Nov 06, 2022, 21:12:57",1,train,,
+1981,2143,5720,salanga,"Nov 06, 2022, 21:12:57",2,bus,car,
+1982,2144,5720,ullapara,"Nov 06, 2022, 21:12:57",2,bus,car,
+1983,2145,5725,madhabpur,"Nov 07, 2022, 04:02:54",4,bus,,
+1984,2146,5725,bhanga,"Nov 07, 2022, 04:02:54",4,bus,,
+1987,2149,5727,faridpur,"Nov 07, 2022, 04:09:05",9,bus,,
+1988,2150,5727,kishoreganj,"Nov 07, 2022, 04:09:05",9,bus,,
+1989,2151,5734,feni,"Nov 09, 2022, 04:04:03",4,bus,,
+1990,2152,5737,gazipur,"Nov 09, 2022, 04:11:22",2,bike,motorcycle,
+1991,2153,5740,harua,"Nov 09, 2022, 21:42:24",2,truck,bike,motorcycle
+1994,2156,5744,feni,"Nov 10, 2022, 04:09:47",7,bus,car,motorcycle
+1995,2157,5744,jhenaidah,"Nov 10, 2022, 04:09:47",7,bus,car,motorcycle
+1997,2159,5747,jatrabari,"Nov 10, 2022, 04:09:47",10,bus,,
+1998,2160,5750,chattogram,"Nov 11, 2022, 04:03:47",2,bus,,
+1999,2161,5756,chattogram,"Nov 11, 2022, 04:09:47",2,bus,,
+2000,2162,5761,kalapara,"Nov 12, 2022, 04:03:53",1,truck,bike,motorcycle
+2001,2163,5765,chattogram,"Nov 12, 2022, 04:10:44",3,truck,bus,motorcycle
+2002,2164,5765,chattogram,"Nov 12, 2022, 04:10:44",3,truck,bus,motorcycle
+2004,2166,5766,shahjahanpur,"Nov 12, 2022, 04:10:44",1,bus,rickshaw,auto
+2011,2173,5782,chuadanga,"Nov 14, 2022, 04:01:08",1,truck,motorcycle,
+2012,2174,5790,kishoreganj,"Nov 15, 2022, 04:10:22",3,bus,,
+2013,2175,5790,brahmanbaria,"Nov 15, 2022, 04:10:22",3,bus,,
+2014,2176,5791,hajipur,"Nov 15, 2022, 04:10:36",2,bus,motorcycle,
+2016,2178,5807,narsingdi,"Nov 17, 2022, 04:10:27",2,bus,rickshaw,auto
+2017,2179,5807,dhaka,"Nov 17, 2022, 04:10:27",2,bus,rickshaw,auto
+2018,2180,5819,gopalganj,"Nov 18, 2022, 04:10:05",3,truck,bus,
+2020,2182,5820,panchdona,"Nov 18, 2022, 04:10:15",2,bus,rickshaw,auto
+2021,2183,5821,gopinathpur,"Nov 18, 2022, 04:10:15",5,truck,bus,
+2022,2184,5824,natore,"Nov 18, 2022, 23:58:56",8,truck,bus,bike
+2023,2185,5824,lalpur,"Nov 18, 2022, 23:58:56",8,truck,bus,bike
+2024,2186,5825,khilgaon,"Nov 19, 2022, 04:03:40",3,truck,bus,motorcycle
+2025,2187,5830,khilgaon,"Nov 19, 2022, 04:09:44",3,truck,bike,motorcycle
+2027,2189,5833,natore,"Nov 19, 2022, 04:09:44",3,bus,car,motorcycle
+2028,2190,5833,lalpur,"Nov 19, 2022, 04:09:44",3,bus,car,motorcycle
+2029,2191,5834,khilgaon,"Nov 19, 2022, 21:13:28",3,truck,bike,motorcycle
+2030,2192,5834,khilgaon,"Nov 19, 2022, 21:13:28",3,truck,bike,motorcycle
+2031,2193,5835,khilgaon,"Nov 19, 2022, 21:13:28",1,truck,bike,
+2032,2194,5835,dhaka,"Nov 19, 2022, 21:13:28",1,truck,bike,
+2033,2195,5842,lakshmipur,"Nov 20, 2022, 04:02:57",1,car,auto,
+2034,2196,5842,ramgati,"Nov 20, 2022, 04:02:57",1,car,auto,
+2037,2199,5845,bheramara,"Nov 20, 2022, 04:08:31",2,truck,bike,auto
+2040,2202,5848,mymensingh,"Nov 20, 2022, 21:13:20",5,truck,rickshaw,auto
+2042,2204,5852,balipara,"Nov 20, 2022, 21:13:20",5,truck,rickshaw,auto
+2043,2205,5852,mymensingh,"Nov 20, 2022, 21:13:20",5,truck,rickshaw,auto
+2044,2206,5854,bihar,"Nov 21, 2022, 04:02:48",12,truck,,
+2045,2207,5856,mymensingh,"Nov 21, 2022, 04:08:26",5,truck,rickshaw,auto
+2046,2208,5857,joypurhat,"Nov 21, 2022, 04:08:26",1,motorcycle,,
+2047,2209,5870,sultanpur,"Nov 23, 2022, 04:09:52",1,motorcycle,auto,
+2048,2210,5871,kashinathpur,"Nov 23, 2022, 04:10:08",2,truck,,
+2049,2211,5871,santhia,"Nov 23, 2022, 04:10:08",2,truck,,
+2055,2217,5881,dhaka,"Nov 24, 2022, 21:13:57",2,bike,motorcycle,
+2058,2220,5892,narsingdi,"Nov 26, 2022, 06:57:50",3,truck,bus,bike
+2059,2221,5892,chattogram,"Nov 26, 2022, 06:57:50",3,truck,bus,bike
+2060,2222,5895,chandpur,"Nov 26, 2022, 21:13:27",3,motorcycle,,
+2061,2223,5896,shibpur,"Nov 26, 2022, 21:13:27",1,motorcycle,,
+2062,2224,5896,narsingdi,"Nov 26, 2022, 21:13:27",1,motorcycle,,
+2063,2225,5897,thakurgaon,"Nov 27, 2022, 02:57:50",1,bus,bike,motorcycle
+2065,2227,5900,chandpur,"Nov 27, 2022, 04:08:54",3,truck,bike,
+2066,2228,5901,thakurgaon,"Nov 27, 2022, 04:08:54",1,bus,bike,
+2067,2229,5902,thakurgaon,"Nov 27, 2022, 04:08:54",1,bus,bike,
+2068,2230,5909,dinajpur,"Nov 28, 2022, 04:11:13",1,truck,,
+2069,2231,5909,dhaka,"Nov 28, 2022, 04:11:13",1,truck,,
+2070,2232,5911,patuakhali,"Nov 28, 2022, 22:07:12",2,bus,,
+2073,2235,5934,jashore,"Dec 02, 2022, 04:10:46",7,truck,bike,motorcycle
+2074,2236,5934,jashore,"Dec 02, 2022, 04:10:46",7,truck,bike,motorcycle
+2075,2237,5939,jashore,"Dec 02, 2022, 21:16:47",3,auto,,
+2078,2240,5951,ishwardi,"Dec 03, 2022, 21:14:02",1,truck,motorcycle,
+2084,2246,5976,comilla,"Dec 06, 2022, 04:06:22",4,rickshaw,train,auto
+2085,2247,5989,dinajpur,"Dec 07, 2022, 04:09:37",4,truck,bus,bike
+2087,2249,5991,birampur,"Dec 07, 2022, 04:13:59",3,motorcycle,,
+2088,2250,5993,dinajpur,"Dec 07, 2022, 19:54:40",3,truck,bus,bike
+2089,2251,5993,birampur,"Dec 07, 2022, 19:54:40",3,truck,bus,bike
+2090,2252,5995,dinajpur,"Dec 07, 2022, 19:54:40",3,truck,bus,bike
+2091,2253,5995,birampur,"Dec 07, 2022, 19:54:40",3,truck,bus,bike
+2092,2254,6000,dinajpur,"Dec 08, 2022, 04:09:59",5,truck,bus,bike
+2093,2255,6000,gobindaganj,"Dec 08, 2022, 04:09:59",5,truck,bus,bike
+2094,2256,6001,dhaka,"Dec 08, 2022, 04:09:59",1,car,,
+2095,2257,6009,magura,"Dec 09, 2022, 04:09:40",2,car,,
+2096,2258,6009,magura,"Dec 09, 2022, 04:09:40",2,car,,
+2097,2259,6010,magura,"Dec 09, 2022, 04:09:40",2,car,,
+2098,2260,6010,magura,"Dec 09, 2022, 04:09:40",2,car,,
+2099,2261,6014,magura,"Dec 10, 2022, 04:04:06",2,car,,
+2100,2262,6017,narsingdi,"Dec 10, 2022, 09:47:07",3,truck,bike,motorcycle
+2101,2263,6017,dinajpur,"Dec 10, 2022, 09:47:07",3,truck,bike,motorcycle
+2102,2264,6019,dinajpur,"Dec 11, 2022, 04:03:58",1,truck,bus,
+2103,2265,6023,dinajpur,"Dec 11, 2022, 04:08:07",1,bus,,
+2104,2266,6025,dinajpur,"Dec 11, 2022, 04:08:23",1,bus,,
+2105,2267,6026,dinajpur,"Dec 11, 2022, 04:08:23",3,bus,,
+2107,2269,6028,phulbari,"Dec 11, 2022, 21:13:55",3,bus,,
+2108,2270,6028,dinajpur,"Dec 11, 2022, 21:13:55",3,bus,,
+2113,2275,6044,tarakanda,"Dec 13, 2022, 21:14:37",3,truck,rickshaw,auto
+2114,2276,6045,chapainawabganj,"Dec 13, 2022, 21:14:37",1,truck,auto,
+2116,2278,6049,pirojpur,"Dec 14, 2022, 04:09:33",2,bus,,
+2122,2284,6069,sherpur,"Dec 15, 2022, 04:09:34",5,bus,,
+2123,2285,6069,bogura,"Dec 15, 2022, 04:09:34",5,bus,,
+2124,2286,6074,bhuapur,"Dec 15, 2022, 21:14:43",3,truck,bus,bike
+2126,2288,6079,savar,"Dec 17, 2022, 04:09:02",2,bus,,
+2127,2289,6083,kalkini,"Dec 17, 2022, 21:18:34",2,motorcycle,,
+2129,2291,6087,kalkini,"Dec 18, 2022, 04:06:35",2,motorcycle,,
+2131,2293,6089,madaripur,"Dec 18, 2022, 04:08:21",6,truck,bus,motorcycle
+2132,2294,6089,kalkini,"Dec 18, 2022, 04:08:21",6,truck,bus,motorcycle
+2135,2297,6104,brahmanbaria,"Dec 19, 2022, 22:54:54",3,bike,,
+2137,2299,6105,rangpur,"Dec 19, 2022, 22:54:54",5,truck,rickshaw,auto
+2138,2300,6109,rangpur,"Dec 20, 2022, 04:09:34",4,truck,rickshaw,auto
+2139,2301,6110,rangpur,"Dec 20, 2022, 04:09:34",5,rickshaw,auto,
+2140,2302,6116,gafargaon,"Dec 21, 2022, 04:09:28",1,car,rickshaw,auto
+2143,2305,6124,hatia,"Dec 22, 2022, 05:45:02",1,car,train,auto
+2145,2307,6131,sakhipur,"Dec 23, 2022, 04:14:10",3,truck,bus,
+2147,2309,6132,sakhipur,"Dec 23, 2022, 04:14:25",3,truck,bus,motorcycle
+2149,2311,6133,savar,"Dec 23, 2022, 21:03:06",8,bus,motorcycle,rickshaw
+2150,2312,6133,kalma,"Dec 23, 2022, 21:03:06",8,bus,motorcycle,rickshaw
+2151,2313,6134,savar,"Dec 23, 2022, 21:03:06",8,bus,motorcycle,rickshaw
+2152,2314,6134,kalma,"Dec 23, 2022, 21:03:06",8,bus,motorcycle,rickshaw
+2153,2315,6136,savar,"Dec 23, 2022, 21:04:44",3,bus,,
+2154,2316,6136,kalma,"Dec 23, 2022, 21:04:44",3,bus,,
+2157,2319,6140,savar,"Dec 24, 2022, 04:10:59",8,bus,motorcycle,rickshaw
+2158,2320,6140,kalma,"Dec 24, 2022, 04:10:59",8,bus,motorcycle,rickshaw
+2159,2321,6141,meherpur,"Dec 24, 2022, 04:11:14",7,truck,bus,car
+2160,2322,6141,rangamati,"Dec 24, 2022, 04:11:14",7,truck,bus,car
+2163,2325,6143,rangamati,"Dec 24, 2022, 04:11:14",1,bike,motorcycle,
+2168,2330,6149,madaripur,"Dec 24, 2022, 04:14:38",1,bus,car,
+2170,2332,6152,kurigram,"Dec 24, 2022, 13:52:22",5,truck,bus,bike
+2171,2333,6152,trimohini,"Dec 24, 2022, 13:52:22",5,truck,bus,bike
+2172,2334,6153,savar,"Dec 24, 2022, 13:52:22",8,bus,bike,motorcycle
+2175,2337,6154,joypurhat,"Dec 24, 2022, 13:52:22",10,bus,bike,motorcycle
+2176,2338,6161,daulatpur,"Dec 25, 2022, 04:08:32",1,bike,motorcycle,
+2177,2339,6162,feni,"Dec 25, 2022, 04:08:32",8,bus,bike,motorcycle
+2178,2340,6162,kurigram,"Dec 25, 2022, 04:08:32",8,bus,bike,motorcycle
+2184,2346,6175,daulatpur,"Dec 25, 2022, 21:03:36",2,motorcycle,,
+2186,2348,6181,jashore,"Dec 26, 2022, 04:08:58",3,car,motorcycle,
+2187,2349,6182,jashore,"Dec 26, 2022, 04:08:58",3,car,bike,motorcycle
+2189,2351,6183,jashore,"Dec 26, 2022, 04:08:58",3,car,motorcycle,
+2190,2352,6183,manoharpur,"Dec 26, 2022, 04:08:58",3,car,motorcycle,
+2191,2353,6185,jashore,"Dec 26, 2022, 04:08:58",3,truck,car,bike
+2192,2354,6195,gazipur,"Dec 27, 2022, 04:08:44",1,bus,bike,motorcycle
+2198,2360,6203,mohanpur,"Dec 28, 2022, 04:10:26",5,truck,bus,bike
+2199,2361,6203,kadirganj,"Dec 28, 2022, 04:10:26",5,truck,bus,bike
+2201,2363,6219,dhaka,"Dec 29, 2022, 04:09:08",1,bus,motorcycle,
+2202,2364,6223,faridpur,"Dec 29, 2022, 21:02:50",3,truck,car,
+2203,2365,6225,bhanga,"Dec 29, 2022, 21:04:11",2,truck,car,
+2204,2366,6225,faridpur,"Dec 29, 2022, 21:04:11",2,truck,car,
+2205,2367,6231,faridpur,"Dec 30, 2022, 04:09:19",4,truck,bus,car
+2214,2376,6249,nababganj,"Dec 31, 2022, 04:09:07",10,bus,bike,
+2215,2377,6249,dinajpur,"Dec 31, 2022, 04:09:07",10,bus,bike,
+2217,2379,6257,nababganj,"Dec 31, 2022, 21:03:33",10,bus,bike,
+2218,2380,6257,dinajpur,"Dec 31, 2022, 21:03:33",10,bus,bike,
+2219,2381,6261,narayanpur,"Jan 01, 2023, 04:03:08",1,train,,
+2220,2382,6261,gopalpur,"Jan 01, 2023, 04:03:08",1,train,,
+2221,2383,6263,narayanpur,"Jan 01, 2023, 04:08:20",1,train,,
+2222,2384,6263,gopalpur,"Jan 01, 2023, 04:08:20",1,train,,
+2223,2385,6268,jashore,"Jan 01, 2023, 21:03:54",3,truck,,
+2228,2390,6299,mohammadpur,"Jan 03, 2023, 04:09:05",1,motorcycle,rickshaw,auto
+2230,2392,6308,khilgaon,"Jan 03, 2023, 21:56:38",1,train,,
+2231,2393,6308,dhaka,"Jan 03, 2023, 21:56:38",1,train,,
+2232,2394,6313,khulna,"Jan 04, 2023, 04:10:46",6,bus,car,motorcycle
+2234,2396,6314,khulna,"Jan 04, 2023, 04:10:46",3,motorcycle,,
+2235,2397,6314,khulna,"Jan 04, 2023, 04:10:46",3,motorcycle,,
+2241,2403,6338,chattogram,"Jan 06, 2023, 04:09:57",4,truck,car,bike
+2242,2404,6338,kapasia,"Jan 06, 2023, 04:09:57",4,truck,car,bike
+2243,2405,6347,habiganj,"Jan 07, 2023, 04:04:08",5,truck,bus,
+2244,2406,6347,madhabpur,"Jan 07, 2023, 04:04:08",5,truck,bus,
+2245,2407,6349,madhabpur,"Jan 07, 2023, 04:04:08",5,truck,bus,
+2246,2408,6349,habiganj,"Jan 07, 2023, 04:04:08",5,truck,bus,
+2247,2409,6352,habiganj,"Jan 07, 2023, 04:11:45",3,truck,car,
+2248,2410,6353,habiganj,"Jan 07, 2023, 04:12:04",4,truck,bus,
+2249,2411,6354,noapara,"Jan 07, 2023, 04:12:04",5,truck,bus,
+2250,2412,6354,habiganj,"Jan 07, 2023, 04:12:04",5,truck,bus,
+2251,2413,6357,dhaka,"Jan 07, 2023, 04:12:04",2,bus,motorcycle,
+2262,2424,6390,dhaka,"Jan 09, 2023, 04:08:41",1,bus,car,bike
+2263,2425,6391,jashore,"Jan 09, 2023, 04:08:41",8,bus,motorcycle,
+2266,2428,6403,dhaka,"Jan 10, 2023, 04:12:56",3,bus,,
+2267,2429,6404,rangpur,"Jan 10, 2023, 04:12:56",3,bus,,
+2268,2430,6408,rajshahi,"Jan 10, 2023, 21:03:41",11,truck,bus,bike
+2269,2431,6408,rangpur,"Jan 10, 2023, 21:03:41",11,truck,bus,bike
+2270,2432,6409,rajshahi,"Jan 10, 2023, 21:04:36",9,truck,bus,bike
+2271,2433,6409,rangpur,"Jan 10, 2023, 21:04:36",9,truck,bus,bike
+2272,2434,6412,paba,"Jan 10, 2023, 21:09:52",3,truck,motorcycle,
+2273,2435,6413,rangpur,"Jan 10, 2023, 23:43:22",15,truck,bus,bike
+2274,2436,6413,chandpur,"Jan 10, 2023, 23:43:22",15,truck,bus,bike
+2275,2437,6414,rajshahi,"Jan 10, 2023, 23:43:22",9,truck,bus,bike
+2276,2438,6414,rangpur,"Jan 10, 2023, 23:43:22",9,truck,bus,bike
+2277,2439,6416,gachha,"Jan 11, 2023, 04:12:11",2,bus,,
+2278,2440,6417,bhuapur,"Jan 11, 2023, 04:12:11",3,rickshaw,train,auto
+2279,2441,6421,dinajpur,"Jan 11, 2023, 21:52:08",2,truck,rickshaw,
+2280,2442,6421,faridpur,"Jan 11, 2023, 21:52:08",2,truck,rickshaw,
+2282,2444,6427,rajshahi,"Jan 12, 2023, 04:06:49",11,truck,bus,bike
+2283,2445,6427,rangpur,"Jan 12, 2023, 04:06:49",11,truck,bus,bike
+2284,2446,6428,boalmari,"Jan 12, 2023, 04:06:49",2,truck,bike,motorcycle
+2285,2447,6428,paba,"Jan 12, 2023, 04:06:49",2,truck,bike,motorcycle
+2286,2448,6429,bhuapur,"Jan 12, 2023, 04:06:49",2,rickshaw,train,auto
+2287,2449,6432,tejgaon,"Jan 12, 2023, 04:24:05",1,train,auto,
+2288,2450,6433,dhaka,"Jan 12, 2023, 04:24:05",1,train,,
+2293,2455,6443,dhaka,"Jan 13, 2023, 04:12:51",2,truck,rickshaw,auto
+2294,2456,6455,dhaka,"Jan 13, 2023, 21:07:46",2,truck,rickshaw,auto
+2295,2457,6459,lalmonirhat,"Jan 14, 2023, 04:03:46",1,train,,
+2297,2459,6465,kaliganj,"Jan 14, 2023, 05:16:38",2,truck,bus,motorcycle
+2298,2460,6466,kaliganj,"Jan 14, 2023, 17:30:52",3,truck,bus,bike
+2299,2461,6466,jhenaidah,"Jan 14, 2023, 17:30:52",3,truck,bus,bike
+2301,2463,6471,keraniganj,"Jan 15, 2023, 04:03:07",2,motorcycle,rickshaw,auto
+2302,2464,6471,kartikpur,"Jan 15, 2023, 04:03:07",2,motorcycle,rickshaw,auto
+2306,2468,6475,jhenaidah,"Jan 15, 2023, 04:08:57",8,truck,bus,bike
+2307,2469,6475,jashore,"Jan 15, 2023, 04:08:57",8,truck,bus,bike
+2318,2480,6502,khilgaon,"Jan 17, 2023, 04:04:05",1,bike,rickshaw,auto
+2319,2481,6503,shariatpur,"Jan 17, 2023, 04:04:05",6,truck,,
+2320,2482,6504,zajira,"Jan 17, 2023, 04:04:05",6,truck,car,
+2321,2483,6504,shariatpur,"Jan 17, 2023, 04:04:05",6,truck,car,
+2322,2484,6506,zajira,"Jan 17, 2023, 04:04:05",6,truck,auto,
+2325,2487,6511,shariatpur,"Jan 17, 2023, 04:11:33",6,truck,car,train
+2326,2488,6511,dhaka,"Jan 17, 2023, 04:11:33",6,truck,car,train
+2327,2489,6516,shariatpur,"Jan 17, 2023, 04:11:33",1,truck,,
+2328,2490,6517,shariatpur,"Jan 17, 2023, 04:11:33",6,truck,car,auto
+2330,2492,6535,shariatpur,"Jan 19, 2023, 04:01:46",6,truck,car,
+2332,2494,6537,chilahati,"Jan 19, 2023, 04:10:30",1,train,,
+2335,2497,6555,gazipur,"Jan 20, 2023, 22:13:51",3,truck,motorcycle,rickshaw
+2336,2498,6558,sultanpur,"Jan 20, 2023, 22:18:36",3,truck,rickshaw,auto
+2337,2499,6559,gazipur,"Jan 20, 2023, 22:18:36",2,motorcycle,,
+2340,2502,6561,gazipur,"Jan 21, 2023, 04:06:16",3,truck,motorcycle,rickshaw
+2341,2503,6567,kashipur,"Jan 21, 2023, 21:03:38",2,bus,bike,motorcycle
+2344,2506,6576,gazipur,"Jan 22, 2023, 04:40:59",1,truck,,
+2346,2508,6579,chandra,"Jan 22, 2023, 21:17:37",3,truck,bus,bike
+2348,2510,6580,bhanga,"Jan 22, 2023, 21:17:37",3,bus,motorcycle,
+2349,2511,6580,faridpur,"Jan 22, 2023, 21:17:37",3,bus,motorcycle,
+2352,2514,6584,faridpur,"Jan 22, 2023, 21:21:14",3,bus,motorcycle,
+2353,2515,6584,khulna,"Jan 22, 2023, 21:21:14",3,bus,motorcycle,
+2356,2518,6587,bhanga,"Jan 23, 2023, 04:13:28",3,bus,bike,
+2357,2519,6587,faridpur,"Jan 23, 2023, 04:13:28",3,bus,bike,
+2366,2528,6601,dhaka,"Jan 24, 2023, 07:40:10",1,bus,,
+2382,2544,6626,thakurgaon,"Jan 25, 2023, 21:06:31",2,truck,motorcycle,
