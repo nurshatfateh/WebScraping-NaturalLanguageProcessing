@@ -29,3 +29,13 @@ url collector #ref: https://towardsdatascience.com/scraping-1000s-of-news-articl
 
 spacy matching:
 https://sankalpsaoji98.medium.com/extracting-information-from-a-web-article-with-natural-language-processing-using-spacy-b24b5b30f559
+
+
+function ClickConnect() {
+console.log("Working"); 
+document
+  .querySelector('#top-toolbar > colab-connect-button')
+  .shadowRoot.querySelector('#connect')
+  .click() 
+}
+setInterval(ClickConnect, 60000)
