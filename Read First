@@ -1,5 +1,7 @@
 Natural Language Processing Practice
 
+https://stackoverflow.com/questions/55050988/can-i-run-a-google-colab-free-edition-script-and-then-shut-down-my-computer
+
 1. nurshat1_nlp_topic/keyword_searching.ipynb
 https://colab.research.google.com/drive/1QeUOf1TEyVl5vjJbt7P7g2D_k142JpCM?usp=sharing
 DESCRIPTION: Finding particular topic based news from vast pool of newspapers and presenting them in a proper way using newscatcherapi.
