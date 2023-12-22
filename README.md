@@ -1,1 +1,1 @@
-Bangladeshi Accident Data Visualization: trackaccident.streamlit.app/
+Bangladeshi Accident Data Visualization: https://trackaccident.streamlit.app/
